@@ -2,7 +2,7 @@ import Link from "next/link";
 import { ArrowRight, FileText, GitCompareArrows, Heart, WandSparkles } from "lucide-react";
 import { Buscador } from "@/components/Buscador";
 import { Foto } from "@/components/Foto";
-import { IconoFamilia } from "@/components/IconoFamilia";
+import { PictogramaFamilia } from "@/components/PictogramaFamilia";
 import { MARCA } from "@/config/marca";
 import { asset, PDF_CATALOGO } from "@/lib/asset";
 import { imagenPrincipal, marcas, productosDeFamilia } from "@/lib/catalogo";
@@ -64,9 +64,7 @@ export default function Inicio() {
                   className="group flex h-full overflow-hidden rounded-2xl border border-slate-200/80 bg-white shadow-tarjeta transition-shadow hover:shadow-elevada"
                 >
                   <div className="flex flex-1 flex-col p-6">
-                    <span className="flex h-12 w-12 items-center justify-center rounded-xl text-white" style={{ backgroundColor: f.color }}>
-                      <IconoFamilia familia={f.id} className="h-6 w-6" />
-                    </span>
+                    <PictogramaFamilia familia={f.id} className="h-14 w-14 rounded-xl" />
                     <h3 className="mt-4 font-display text-2xl font-semibold text-marino-950">{f.nombre}</h3>
                     <p className="mt-1 text-sm font-semibold text-acento-600">
                       {productos.length} {productos.length === 1 ? "equipo" : "equipos"}

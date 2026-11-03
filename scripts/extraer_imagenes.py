@@ -232,7 +232,9 @@ def main(pdf):
         os.makedirs(carpeta, exist_ok=True)
         manifiesto[slug] = []
         for n, (xref, tipo, alt, *extra) in enumerate(lista, 1):
-            img = extraer(doc, xref)
+            retocada = os.path.join(RAIZ, "scripts", "fotos-retocadas", f"{slug}-{n}.png")
+            # Si hay una versión retocada (p. ej. sin fondo), se usa en lugar de la del PDF.
+            img = Image.open(retocada) if os.path.exists(retocada) else extraer(doc, xref)
             original = max(img.size)
             factor = extra[0] if extra else factor_auto(img, tipo)
             if factor > 1:

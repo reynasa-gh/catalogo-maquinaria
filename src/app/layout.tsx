@@ -3,6 +3,7 @@ import { Barlow_Semi_Condensed } from "next/font/google";
 import { Avisos } from "@/components/Avisos";
 import { BarraComparar } from "@/components/BarraComparar";
 import { Cabecera } from "@/components/Cabecera";
+import { ClaveAcceso } from "@/components/ClaveAcceso";
 import { Pie } from "@/components/Pie";
 import { MARCA } from "@/config/marca";
 import { StoreProvider } from "@/lib/store";
@@ -31,6 +32,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="es" className={barlow.variable}>
       <body className="min-h-dvh flex flex-col">
+        <ClaveAcceso>
         <StoreProvider>
           <a
             href="#contenido"
@@ -46,6 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <BarraComparar />
           <Avisos />
         </StoreProvider>
+        </ClaveAcceso>
       </body>
     </html>
   );

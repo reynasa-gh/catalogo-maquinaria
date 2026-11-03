@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Explorador } from "@/components/Explorador";
-import { IconoFamilia } from "@/components/IconoFamilia";
+import { PictogramaFamilia } from "@/components/PictogramaFamilia";
 import { productosDeFamilia } from "@/lib/catalogo";
 import { FAMILIAS, familiaPorId } from "@/lib/familias";
 
@@ -28,9 +28,7 @@ export default async function PaginaCategoria({ params }: { params: Promise<{ fa
       <div className="relative overflow-hidden border-b border-slate-200 bg-white">
         <div className="absolute inset-y-0 left-0 w-1.5" style={{ backgroundColor: f.color }} aria-hidden="true" />
         <div className="mx-auto flex max-w-[1440px] flex-col gap-6 px-4 py-8 sm:px-6 md:flex-row md:items-center lg:px-8">
-          <span className="flex h-16 w-16 shrink-0 items-center justify-center rounded-2xl text-white" style={{ backgroundColor: f.color }}>
-            <IconoFamilia familia={f.id} className="h-8 w-8" />
-          </span>
+          <PictogramaFamilia familia={f.id} className="h-16 w-16 rounded-2xl" />
           <div className="flex-1">
             <nav aria-label="Ruta" className="text-sm text-slate-600">
               <Link href="/catalogo/" className="hover:underline">
