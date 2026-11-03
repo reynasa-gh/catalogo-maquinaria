@@ -1,0 +1,841 @@
+{
+ "sdx35": [
+  {
+   "src": "/img/productos/sdx35/1.webp",
+   "thumb": "/img/productos/sdx35/1-sm.webp",
+   "w": 620,
+   "h": 631,
+   "tipo": "producto",
+   "alt": "Elevador SDX35 de 2 columnas",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sdx35/2.webp",
+   "thumb": "/img/productos/sdx35/2-sm.webp",
+   "w": 250,
+   "h": 228,
+   "tipo": "detalle",
+   "alt": "Motor reforzado",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sdx35/3.webp",
+   "thumb": "/img/productos/sdx35/3-sm.webp",
+   "w": 240,
+   "h": 208,
+   "tipo": "detalle",
+   "alt": "Rodamiento de larga duración",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sdx35/4.webp",
+   "thumb": "/img/productos/sdx35/4-sm.webp",
+   "w": 268,
+   "h": 244,
+   "tipo": "detalle",
+   "alt": "Polea de aluminio refrigerada",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sdx35/5.webp",
+   "thumb": "/img/productos/sdx35/5-sm.webp",
+   "w": 168,
+   "h": 276,
+   "tipo": "detalle",
+   "alt": "Tacos con enganche rápido para suplementos",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sdx35/6.webp",
+   "thumb": "/img/productos/sdx35/6-sm.webp",
+   "w": 192,
+   "h": 202,
+   "tipo": "detalle",
+   "alt": "Tuerca de trabajo en bronce",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sdx35/7.webp",
+   "thumb": "/img/productos/sdx35/7-sm.webp",
+   "w": 602,
+   "h": 332,
+   "tipo": "plano",
+   "alt": "Posicionamiento de brazos por vehículo",
+   "calidad": "ok"
+  }
+ ],
+ "sdx42lik": [
+  {
+   "src": "/img/productos/sdx42lik/1.webp",
+   "thumb": "/img/productos/sdx42lik/1-sm.webp",
+   "w": 360,
+   "h": 610,
+   "tipo": "producto",
+   "alt": "Elevador SDX42LIK de 2 columnas",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sdx42lik/2.webp",
+   "thumb": "/img/productos/sdx42lik/2-sm.webp",
+   "w": 927,
+   "h": 398,
+   "tipo": "plano",
+   "alt": "Posicionamiento de brazos por vehículo y cotas",
+   "calidad": "ok"
+  }
+ ],
+ "sdx55": [
+  {
+   "src": "/img/productos/sdx55/1.webp",
+   "thumb": "/img/productos/sdx55/1-sm.webp",
+   "w": 428,
+   "h": 734,
+   "tipo": "producto",
+   "alt": "Elevador SDX55 de 2 columnas",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sdx55/2.webp",
+   "thumb": "/img/productos/sdx55/2-sm.webp",
+   "w": 384,
+   "h": 363,
+   "tipo": "plano",
+   "alt": "Plano de dimensiones del SDX55",
+   "calidad": "ok"
+  }
+ ],
+ "sfl5535": [
+  {
+   "src": "/img/productos/sfl5535/1.webp",
+   "thumb": "/img/productos/sfl5535/1-sm.webp",
+   "w": 948,
+   "h": 832,
+   "tipo": "producto",
+   "alt": "Elevador de tijera SFL5535 con vehículo",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sfl5535/2.webp",
+   "thumb": "/img/productos/sfl5535/2-sm.webp",
+   "w": 558,
+   "h": 502,
+   "tipo": "detalle",
+   "alt": "Detalle del mecanismo de seguridad",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sfl5535/3.webp",
+   "thumb": "/img/productos/sfl5535/3-sm.webp",
+   "w": 988,
+   "h": 284,
+   "tipo": "detalle",
+   "alt": "Instalación empotrada en taller",
+   "calidad": "ok"
+  }
+ ],
+ "sf6402nilt": [
+  {
+   "src": "/img/productos/sf6402nilt/1.webp",
+   "thumb": "/img/productos/sf6402nilt/1-sm.webp",
+   "w": 546,
+   "h": 317,
+   "tipo": "producto",
+   "alt": "Elevador de tijera SF6402NILT con vehículo",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sf6402nilt/2.webp",
+   "thumb": "/img/productos/sf6402nilt/2-sm.webp",
+   "w": 874,
+   "h": 322,
+   "tipo": "detalle",
+   "alt": "Elevador SF6402NILT plegado",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sf6402nilt/3.webp",
+   "thumb": "/img/productos/sf6402nilt/3-sm.webp",
+   "w": 370,
+   "h": 374,
+   "tipo": "detalle",
+   "alt": "Detalle de articulación",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sf6402nilt/4.webp",
+   "thumb": "/img/productos/sf6402nilt/4-sm.webp",
+   "w": 356,
+   "h": 322,
+   "tipo": "detalle",
+   "alt": "Operario bajo el elevador",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sf6402nilt/5.webp",
+   "thumb": "/img/productos/sf6402nilt/5-sm.webp",
+   "w": 400,
+   "h": 322,
+   "tipo": "detalle",
+   "alt": "Detalle del circuito hidráulico",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sf6402nilt/6.webp",
+   "thumb": "/img/productos/sf6402nilt/6-sm.webp",
+   "w": 328,
+   "h": 294,
+   "tipo": "detalle",
+   "alt": "Plataforma con plato giratorio",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sf6402nilt/7.webp",
+   "thumb": "/img/productos/sf6402nilt/7-sm.webp",
+   "w": 1400,
+   "h": 993,
+   "tipo": "plano",
+   "alt": "Plano de cimentación del elevador de tijera",
+   "calidad": "ok"
+  }
+ ],
+ "spa3dtower-4": [
+  {
+   "src": "/img/productos/spa3dtower-4/1.webp",
+   "thumb": "/img/productos/spa3dtower-4/1-sm.webp",
+   "w": 583,
+   "h": 534,
+   "tipo": "producto",
+   "alt": "Alineador SPA3DTOWER.4 con consola",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/spa3dtower-4/2.webp",
+   "thumb": "/img/productos/spa3dtower-4/2-sm.webp",
+   "w": 914,
+   "h": 784,
+   "tipo": "detalle",
+   "alt": "Cruz 3D SPA.3DTOW.702067",
+   "calidad": "ok"
+  }
+ ],
+ "sptd2-0wifi-3": [
+  {
+   "src": "/img/productos/sptd2-0wifi-3/1.webp",
+   "thumb": "/img/productos/sptd2-0wifi-3/1-sm.webp",
+   "w": 928,
+   "h": 598,
+   "tipo": "producto",
+   "alt": "Tableta del alineador SPTD2.0WIFI.3",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sptd2-0wifi-3/2.webp",
+   "thumb": "/img/productos/sptd2-0wifi-3/2-sm.webp",
+   "w": 740,
+   "h": 462,
+   "tipo": "detalle",
+   "alt": "Garra del captador",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sptd2-0wifi-3/3.webp",
+   "thumb": "/img/productos/sptd2-0wifi-3/3-sm.webp",
+   "w": 380,
+   "h": 254,
+   "tipo": "pantalla",
+   "alt": "Pantalla de resultados",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sptd2-0wifi-3/4.webp",
+   "thumb": "/img/productos/sptd2-0wifi-3/4-sm.webp",
+   "w": 364,
+   "h": 260,
+   "tipo": "pantalla",
+   "alt": "Pantalla de giro de ruedas",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sptd2-0wifi-3/5.webp",
+   "thumb": "/img/productos/sptd2-0wifi-3/5-sm.webp",
+   "w": 378,
+   "h": 256,
+   "tipo": "pantalla",
+   "alt": "Pantalla de bloqueo de volante",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sptd2-0wifi-3/6.webp",
+   "thumb": "/img/productos/sptd2-0wifi-3/6-sm.webp",
+   "w": 390,
+   "h": 276,
+   "tipo": "pantalla",
+   "alt": "Pantalla de ajuste",
+   "calidad": "baja"
+  }
+ ],
+ "v-2180": [
+  {
+   "src": "/img/productos/v-2180/1.webp",
+   "thumb": "/img/productos/v-2180/1-sm.webp",
+   "w": 650,
+   "h": 669,
+   "tipo": "producto",
+   "alt": "Alineador V 2180 con barra de cámaras",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/v-2180/2.webp",
+   "thumb": "/img/productos/v-2180/2-sm.webp",
+   "w": 666,
+   "h": 570,
+   "tipo": "detalle",
+   "alt": "Barra de cámaras giratoria",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/v-2180/3.webp",
+   "thumb": "/img/productos/v-2180/3-sm.webp",
+   "w": 778,
+   "h": 272,
+   "tipo": "accesorio",
+   "alt": "Platos giratorios incluidos",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/v-2180/4.webp",
+   "thumb": "/img/productos/v-2180/4-sm.webp",
+   "w": 284,
+   "h": 238,
+   "tipo": "accesorio",
+   "alt": "Garras de 4 puntos AC 100",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/v-2180/5.webp",
+   "thumb": "/img/productos/v-2180/5-sm.webp",
+   "w": 528,
+   "h": 378,
+   "tipo": "accesorio",
+   "alt": "Kit móvil (no incluido)",
+   "calidad": "baja"
+  }
+ ],
+ "ga2641d-24": [
+  {
+   "src": "/img/productos/ga2641d-24/1.webp",
+   "thumb": "/img/productos/ga2641d-24/1-sm.webp",
+   "w": 465,
+   "h": 683,
+   "tipo": "producto",
+   "alt": "Desmontadora GA2641D.24",
+   "calidad": "ok"
+  }
+ ],
+ "sg45-26d": [
+  {
+   "src": "/img/productos/sg45-26d/1.webp",
+   "thumb": "/img/productos/sg45-26d/1-sm.webp",
+   "w": 526,
+   "h": 606,
+   "tipo": "producto",
+   "alt": "Desmontadora gama SG45.26 con detalles",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sg45-26d/2.webp",
+   "thumb": "/img/productos/sg45-26d/2-sm.webp",
+   "w": 640,
+   "h": 574,
+   "tipo": "accesorio",
+   "alt": "Pneumatic bead press arm (VSG.PL100.900401)",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sg45-26d/3.webp",
+   "thumb": "/img/productos/sg45-26d/3-sm.webp",
+   "w": 352,
+   "h": 602,
+   "tipo": "accesorio",
+   "alt": "Bandeja de almacenamiento (G800A141)",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sg45-26d/4.webp",
+   "thumb": "/img/productos/sg45-26d/4-sm.webp",
+   "w": 764,
+   "h": 462,
+   "tipo": "accesorio",
+   "alt": "Plastic tool",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sg45-26d/5.webp",
+   "thumb": "/img/productos/sg45-26d/5-sm.webp",
+   "w": 380,
+   "h": 642,
+   "tipo": "accesorio",
+   "alt": "Kit inflado tubeless (G800A137)",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sg45-26d/6.webp",
+   "thumb": "/img/productos/sg45-26d/6-sm.webp",
+   "w": 596,
+   "h": 544,
+   "tipo": "accesorio",
+   "alt": "Elevador (G800A138)",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/sg45-26d/7.webp",
+   "thumb": "/img/productos/sg45-26d/7-sm.webp",
+   "w": 890,
+   "h": 604,
+   "tipo": "accesorio",
+   "alt": "Destalonador 2 posiciones y pala ajustable",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sg45-26d/8.webp",
+   "thumb": "/img/productos/sg45-26d/8-sm.webp",
+   "w": 798,
+   "h": 694,
+   "tipo": "accesorio",
+   "alt": "Posicionamiento neumático",
+   "calidad": "ok"
+  }
+ ],
+ "sg45-26dp-plus": [
+  {
+   "src": "/img/productos/sg45-26dp-plus/1.webp",
+   "thumb": "/img/productos/sg45-26dp-plus/1-sm.webp",
+   "w": 526,
+   "h": 606,
+   "tipo": "producto",
+   "alt": "Desmontadora gama SG45.26 con detalles",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/sg45-26dp-plus/2.webp",
+   "thumb": "/img/productos/sg45-26dp-plus/2-sm.webp",
+   "w": 798,
+   "h": 694,
+   "tipo": "accesorio",
+   "alt": "Posicionamiento neumático",
+   "calidad": "ok"
+  }
+ ],
+ "super-lx-24": [
+  {
+   "src": "/img/productos/super-lx-24/1.webp",
+   "thumb": "/img/productos/super-lx-24/1-sm.webp",
+   "w": 502,
+   "h": 721,
+   "tipo": "producto",
+   "alt": "Desmontadora SUPER LX 24",
+   "calidad": "ok"
+  }
+ ],
+ "super-lx-26": [
+  {
+   "src": "/img/productos/super-lx-26/1.webp",
+   "thumb": "/img/productos/super-lx-26/1-sm.webp",
+   "w": 514,
+   "h": 797,
+   "tipo": "producto",
+   "alt": "Desmontadora SUPER LX 26",
+   "calidad": "ok"
+  }
+ ],
+ "er455ws": [
+  {
+   "src": "/img/productos/er455ws/1.webp",
+   "thumb": "/img/productos/er455ws/1-sm.webp",
+   "w": 371,
+   "h": 574,
+   "tipo": "producto",
+   "alt": "Equilibradora ER455WS",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/er455ws/2.webp",
+   "thumb": "/img/productos/er455ws/2-sm.webp",
+   "w": 560,
+   "h": 328,
+   "tipo": "detalle",
+   "alt": "Posicionamiento del plomo",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/er455ws/3.webp",
+   "thumb": "/img/productos/er455ws/3-sm.webp",
+   "w": 608,
+   "h": 362,
+   "tipo": "detalle",
+   "alt": "Bloqueo rápido de la rueda",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/er455ws/4.webp",
+   "thumb": "/img/productos/er455ws/4-sm.webp",
+   "w": 426,
+   "h": 330,
+   "tipo": "pantalla",
+   "alt": "Programa ALU-S",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/er455ws/5.webp",
+   "thumb": "/img/productos/er455ws/5-sm.webp",
+   "w": 564,
+   "h": 334,
+   "tipo": "pantalla",
+   "alt": "Programa dinámico",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/er455ws/6.webp",
+   "thumb": "/img/productos/er455ws/6-sm.webp",
+   "w": 432,
+   "h": 332,
+   "tipo": "pantalla",
+   "alt": "Pantalla de programas",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/er455ws/7.webp",
+   "thumb": "/img/productos/er455ws/7-sm.webp",
+   "w": 542,
+   "h": 316,
+   "tipo": "pantalla",
+   "alt": "Medición del alabeo",
+   "calidad": "baja"
+  }
+ ],
+ "s-1280": [
+  {
+   "src": "/img/productos/s-1280/1.webp",
+   "thumb": "/img/productos/s-1280/1-sm.webp",
+   "w": 574,
+   "h": 870,
+   "tipo": "producto",
+   "alt": "Equilibradora S 1280",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/s-1280/2.webp",
+   "thumb": "/img/productos/s-1280/2-sm.webp",
+   "w": 564,
+   "h": 300,
+   "tipo": "detalle",
+   "alt": "Eje de bloqueo",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/s-1280/3.webp",
+   "thumb": "/img/productos/s-1280/3-sm.webp",
+   "w": 564,
+   "h": 300,
+   "tipo": "detalle",
+   "alt": "Conos y garra de bloqueo",
+   "calidad": "baja"
+  }
+ ],
+ "s-1450-s": [
+  {
+   "src": "/img/productos/s-1450-s/1.webp",
+   "thumb": "/img/productos/s-1450-s/1-sm.webp",
+   "w": 584,
+   "h": 848,
+   "tipo": "producto",
+   "alt": "Equilibradora S 1450 S",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/s-1450-s/2.webp",
+   "thumb": "/img/productos/s-1450-s/2-sm.webp",
+   "w": 502,
+   "h": 356,
+   "tipo": "pantalla",
+   "alt": "Pantalla táctil",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/s-1450-s/3.webp",
+   "thumb": "/img/productos/s-1450-s/3-sm.webp",
+   "w": 564,
+   "h": 300,
+   "tipo": "detalle",
+   "alt": "Eje principal de 225 mm",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/s-1450-s/4.webp",
+   "thumb": "/img/productos/s-1450-s/4-sm.webp",
+   "w": 564,
+   "h": 300,
+   "tipo": "detalle",
+   "alt": "Eje de bloqueo",
+   "calidad": "baja"
+  }
+ ],
+ "s-1750-s": [
+  {
+   "src": "/img/productos/s-1750-s/1.webp",
+   "thumb": "/img/productos/s-1750-s/1-sm.webp",
+   "w": 548,
+   "h": 852,
+   "tipo": "producto",
+   "alt": "Equilibradora S 1750 S",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/s-1750-s/2.webp",
+   "thumb": "/img/productos/s-1750-s/2-sm.webp",
+   "w": 456,
+   "h": 292,
+   "tipo": "detalle",
+   "alt": "Quick BAL: tiempo de lanzamiento 6 s",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/s-1750-s/3.webp",
+   "thumb": "/img/productos/s-1750-s/3-sm.webp",
+   "w": 564,
+   "h": 300,
+   "tipo": "detalle",
+   "alt": "Rueda en el eje",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/s-1750-s/4.webp",
+   "thumb": "/img/productos/s-1750-s/4-sm.webp",
+   "w": 564,
+   "h": 300,
+   "tipo": "detalle",
+   "alt": "Eje de bloqueo",
+   "calidad": "baja"
+  }
+ ],
+ "treadreader": [
+  {
+   "src": "/img/productos/treadreader/1.webp",
+   "thumb": "/img/productos/treadreader/1-sm.webp",
+   "w": 971,
+   "h": 480,
+   "tipo": "producto",
+   "alt": "Rampa escáner de suelo TreadReader",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/treadreader/2.webp",
+   "thumb": "/img/productos/treadreader/2-sm.webp",
+   "w": 982,
+   "h": 432,
+   "tipo": "pantalla",
+   "alt": "Escaneo 3D de la banda de rodadura",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/treadreader/3.webp",
+   "thumb": "/img/productos/treadreader/3-sm.webp",
+   "w": 950,
+   "h": 936,
+   "tipo": "pantalla",
+   "alt": "Plataforma en la nube en monitor",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/treadreader/4.webp",
+   "thumb": "/img/productos/treadreader/4-sm.webp",
+   "w": 603,
+   "h": 388,
+   "tipo": "pantalla",
+   "alt": "Informe de escaneos en portátil",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/treadreader/5.webp",
+   "thumb": "/img/productos/treadreader/5-sm.webp",
+   "w": 920,
+   "h": 704,
+   "tipo": "detalle",
+   "alt": "Escaneo de neumático",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/treadreader/6.webp",
+   "thumb": "/img/productos/treadreader/6-sm.webp",
+   "w": 702,
+   "h": 490,
+   "tipo": "detalle",
+   "alt": "Marco para instalación empotrada",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/treadreader/7.webp",
+   "thumb": "/img/productos/treadreader/7-sm.webp",
+   "w": 1400,
+   "h": 985,
+   "tipo": "plano",
+   "alt": "Plano de obra civil TreadReader",
+   "calidad": "ok"
+  }
+ ],
+ "cross-900-10": [
+  {
+   "src": "/img/productos/cross-900-10/1.webp",
+   "thumb": "/img/productos/cross-900-10/1-sm.webp",
+   "w": 820,
+   "h": 874,
+   "tipo": "producto",
+   "alt": "Compresor de tornillo CROSS 900 10",
+   "calidad": "ok"
+  }
+ ],
+ "cool-72": [
+  {
+   "src": "/img/productos/cool-72/1.webp",
+   "thumb": "/img/productos/cool-72/1-sm.webp",
+   "w": 468,
+   "h": 560,
+   "tipo": "producto",
+   "alt": "Secador frigorífico COOL 72",
+   "calidad": "ok"
+  }
+ ],
+ "dv-1000-126-kit": [
+  {
+   "src": "/img/productos/dv-1000-126-kit/1.webp",
+   "thumb": "/img/productos/dv-1000-126-kit/1-sm.webp",
+   "w": 300,
+   "h": 922,
+   "tipo": "producto",
+   "alt": "Depósito vertical DV-1000/126",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/dv-1000-126-kit/2.webp",
+   "thumb": "/img/productos/dv-1000-126-kit/2-sm.webp",
+   "w": 292,
+   "h": 190,
+   "tipo": "accesorio",
+   "alt": "Accesorios incluidos: manómetro, válvula de seguridad y grifo de purga",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/dv-1000-126-kit/3.webp",
+   "thumb": "/img/productos/dv-1000-126-kit/3-sm.webp",
+   "w": 236,
+   "h": 461,
+   "tipo": "plano",
+   "alt": "Plano de conexiones del depósito",
+   "calidad": "ok"
+  }
+ ],
+ "cross-500-10-200": [
+  {
+   "src": "/img/productos/cross-500-10-200/1.webp",
+   "thumb": "/img/productos/cross-500-10-200/1-sm.webp",
+   "w": 509,
+   "h": 560,
+   "tipo": "producto",
+   "alt": "Compresor CROSS 500 10 200 sobre depósito",
+   "calidad": "ok"
+  }
+ ],
+ "eck-next-pro": [
+  {
+   "src": "/img/productos/eck-next-pro/1.webp",
+   "thumb": "/img/productos/eck-next-pro/1-sm.webp",
+   "w": 1116,
+   "h": 1094,
+   "tipo": "producto",
+   "alt": "Estación de carga A/A ECK NEXT PRO",
+   "calidad": "ok"
+  }
+ ],
+ "optima": [
+  {
+   "src": "/img/productos/optima/1.webp",
+   "thumb": "/img/productos/optima/1-sm.webp",
+   "w": 441,
+   "h": 752,
+   "tipo": "producto",
+   "alt": "Estación de carga automática A/A OPTIMA",
+   "calidad": "ok"
+  }
+ ],
+ "x-cross": [
+  {
+   "src": "/img/productos/x-cross/1.webp",
+   "thumb": "/img/productos/x-cross/1-sm.webp",
+   "w": 1097,
+   "h": 1097,
+   "tipo": "producto",
+   "alt": "Estación A/A X-CROSS para exterior",
+   "calidad": "ok"
+  }
+ ],
+ "ds903": [
+  {
+   "src": "/img/productos/ds903/1.webp",
+   "thumb": "/img/productos/ds903/1-sm.webp",
+   "w": 444,
+   "h": 847,
+   "tipo": "producto",
+   "alt": "Equipo de sangrado DS903",
+   "calidad": "ok"
+  },
+  {
+   "src": "/img/productos/ds903/2.webp",
+   "thumb": "/img/productos/ds903/2-sm.webp",
+   "w": 314,
+   "h": 178,
+   "tipo": "accesorio",
+   "alt": "Kits de boquillas",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/ds903/3.webp",
+   "thumb": "/img/productos/ds903/3-sm.webp",
+   "w": 314,
+   "h": 166,
+   "tipo": "accesorio",
+   "alt": "Adaptadores",
+   "calidad": "baja"
+  },
+  {
+   "src": "/img/productos/ds903/4.webp",
+   "thumb": "/img/productos/ds903/4-sm.webp",
+   "w": 336,
+   "h": 186,
+   "tipo": "accesorio",
+   "alt": "Tapón universal",
+   "calidad": "baja"
+  }
+ ],
+ "syncro-exprex": [
+  {
+   "src": "/img/productos/syncro-exprex/1.webp",
+   "thumb": "/img/productos/syncro-exprex/1-sm.webp",
+   "w": 436,
+   "h": 860,
+   "tipo": "producto",
+   "alt": "SYNCRO EXPREX",
+   "calidad": "ok"
+  }
+ ],
+ "syncro-plus": [
+  {
+   "src": "/img/productos/syncro-plus/1.webp",
+   "thumb": "/img/productos/syncro-plus/1-sm.webp",
+   "w": 461,
+   "h": 872,
+   "tipo": "producto",
+   "alt": "SYNCRO PLUS",
+   "calidad": "ok"
+  }
+ ]
+}

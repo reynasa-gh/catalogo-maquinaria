@@ -1,0 +1,3591 @@
+[
+  {
+    "id": "sdx35",
+    "familia": "elevadores",
+    "subfamilia": "2 columnas",
+    "tipoEquipo": "Elevador electromecánico de 2 columnas",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SDX35",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "SDX35CRI"
+      },
+      {
+        "etiqueta": "Equivalencia",
+        "valor": "VSSDX35199331SPC"
+      }
+    ],
+    "descripcion": "Elevador de 3.500 kg de capacidad con columnas asimétricas y carros a 45º. Sin base: se necesita tener un buen suelo de hormigón.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Capacidad",
+        "valor": "3.500 kg"
+      },
+      {
+        "etiqueta": "Columnas",
+        "valor": "Asimétricas"
+      },
+      {
+        "etiqueta": "Carros",
+        "valor": "A 45º, 3 posiciones de hueco"
+      },
+      {
+        "etiqueta": "Motores",
+        "valor": "2 motores (2 x 3,5 kW)"
+      },
+      {
+        "etiqueta": "Sincronización",
+        "valor": "Electrónica"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Columnas asimétricas con los carros a 45º, 3 posiciones de hueco entre columnas.",
+      "2 motores, sincronización electrónica (2 x 3,5 kW).",
+      "Tacos de Ø 124 mm, con enganche rápido para el intercambio de suplementos.",
+      "Husillo de acero de altísima calidad con rosca realizada en frío.",
+      "Tuerca de trabajo y seguridad en bronce de grandísima resistencia, 50 % más larga.",
+      "Lubricación automática del husillo y tuercas (antes de su tránsito).",
+      "Sistema de bloqueo de subida del elevador al desgaste de la tuerca de trabajo.",
+      "Motores con carcasa reforzada, rodamientos de larga duración, poleas de aluminio y refrigeradas, fácil acceso al cambio del husillo y piezas del interior."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Capacidad",
+        "valor": "3.500 kg"
+      },
+      {
+        "etiqueta": "Columnas",
+        "valor": "Asimétricas"
+      },
+      {
+        "etiqueta": "Carros",
+        "valor": "A 45º"
+      },
+      {
+        "etiqueta": "Hueco entre columnas",
+        "valor": "3 posiciones"
+      },
+      {
+        "etiqueta": "Motores",
+        "valor": "2 x 3,5 kW"
+      },
+      {
+        "etiqueta": "Sincronización",
+        "valor": "Electrónica"
+      },
+      {
+        "etiqueta": "Tacos",
+        "valor": "Ø 124 mm, enganche rápido"
+      }
+    ],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [
+      "SMART",
+      "BMW Z4",
+      "BMW i3",
+      "BMW E83",
+      "VW T6 passo lungo",
+      "VW Tiguan",
+      "VW Touareg",
+      "VW ID4",
+      "Audi A3",
+      "Audi Q7",
+      "Audi Q4 e-tron",
+      "Tesla Model X",
+      "Renault ZOE",
+      "Renault Clio"
+    ],
+    "requisitosInstalacion": [
+      "Sin base: se necesita tener un buen suelo de hormigón."
+    ],
+    "observaciones": [],
+    "notasDatos": [],
+    "atributos": {
+      "capacidadKg": 3500,
+      "columnas": "Asimétricas",
+      "instalacion": [
+        "Sin base (suelo de hormigón)"
+      ],
+      "sincronizacion": "Electrónica",
+      "huecoColumnas": "3 posiciones",
+      "motores": "2 x 3,5 kW",
+      "aptoAlineacion": "ND"
+    },
+    "vehiculos": {
+      "tipos": [
+        "Turismo",
+        "SUV",
+        "Furgoneta"
+      ],
+      "fuente": "Tabla de posicionamiento de brazos (pág. 2): incluye turismos, SUV (VW Tiguan, Touareg, Audi Q7) y VW T6 passo lungo."
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      2
+    ]
+  },
+  {
+    "id": "sdx42lik",
+    "familia": "elevadores",
+    "subfamilia": "2 columnas",
+    "tipoEquipo": "Elevador electromecánico de 2 columnas",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SDX42LIK",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "SDX42LIKCRI"
+      },
+      {
+        "etiqueta": "Equivalencia",
+        "valor": "VSSDX42198334SPC"
+      }
+    ],
+    "descripcion": "Elevador de 4.200 kg de capacidad con columnas asimétricas y brazos largos, ideal para furgones de caja larga. Sin base: se necesita tener un buen suelo de hormigón.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Capacidad",
+        "valor": "4.200 kg"
+      },
+      {
+        "etiqueta": "Columnas",
+        "valor": "Asimétricas"
+      },
+      {
+        "etiqueta": "Hueco columnas",
+        "valor": "2700–2800 mm"
+      },
+      {
+        "etiqueta": "Brazos",
+        "valor": "705–1330 mm"
+      },
+      {
+        "etiqueta": "Sincronización",
+        "valor": "Electrónica, 2 motores"
+      },
+      {
+        "etiqueta": "Aplicación",
+        "valor": "Ideal furgones caja larga"
+      }
+    ],
+    "destacados": [
+      "Polea de aluminio con función de refrigeración",
+      "Rodamientos de larga duración",
+      "Tuerca de carga de bronce un 50 % más larga",
+      "Motores con carcasa reforzada y refrigerada",
+      "Trabado firme y automático del brazo"
+    ],
+    "caracteristicas": [
+      "Columnas asimétricas con los carros enfrentados, hueco entre columnas ajustable 2700–2800 mm.",
+      "2 motores, sincronización electrónica.",
+      "Tacos de Ø 124 mm, con enganche rápido para el intercambio de suplementos.",
+      "Brazos delanteros/traseros 705–1330 mm (ideal furgones caja larga)."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Capacidad",
+        "valor": "4.200 kg"
+      },
+      {
+        "etiqueta": "Columnas",
+        "valor": "Asimétricas, carros enfrentados"
+      },
+      {
+        "etiqueta": "Hueco entre columnas",
+        "valor": "2700–2800 mm (ajustable)"
+      },
+      {
+        "etiqueta": "Brazos delanteros/traseros",
+        "valor": "705–1330 mm"
+      },
+      {
+        "etiqueta": "Motores",
+        "valor": "2"
+      },
+      {
+        "etiqueta": "Sincronización",
+        "valor": "Electrónica"
+      },
+      {
+        "etiqueta": "Tacos",
+        "valor": "Ø 124 mm, enganche rápido"
+      }
+    ],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [
+      {
+        "nombre": "Prolongación de altura (para arco superior)",
+        "referencia": "VSG.2CELM.902344",
+        "nota": "Recomendado pedirla"
+      }
+    ],
+    "accesorios": [],
+    "compatibilidades": [
+      "SMART",
+      "BMW Z4",
+      "BMW i3",
+      "BMW E83",
+      "VW T6 passo lungo",
+      "VW Tiguan",
+      "VW Touareg",
+      "VW ID4",
+      "Audi A3",
+      "Audi Q7",
+      "Audi Q4 e-tron",
+      "Tesla Model X",
+      "Renault ZOE",
+      "Renault Clio",
+      "VW Crafter L3 F/Q+4x4",
+      "VW Crafter L4 F/Q+4x4",
+      "Fiat Ducato passo 4035",
+      "Mercedes Sprinter L3"
+    ],
+    "requisitosInstalacion": [
+      "Sin base: se necesita tener un buen suelo de hormigón."
+    ],
+    "observaciones": [
+      "Recomendado pedir prolongación de altura (para arco superior), referencia VSG.2CELM.902344."
+    ],
+    "notasDatos": [],
+    "atributos": {
+      "capacidadKg": 4200,
+      "columnas": "Asimétricas",
+      "instalacion": [
+        "Sin base (suelo de hormigón)"
+      ],
+      "sincronizacion": "Electrónica",
+      "huecoColumnas": "2700–2800 mm",
+      "brazos": "705–1330 mm",
+      "motores": "2",
+      "aptoAlineacion": "ND"
+    },
+    "vehiculos": {
+      "tipos": [
+        "Turismo",
+        "SUV",
+        "Furgoneta",
+        "Comercial"
+      ],
+      "fuente": "Ficha: «Ideal furgones caja larga». Tabla de posicionamiento (pág. 3): VW Crafter L3/L4, Fiat Ducato, Mercedes Sprinter L3, además de turismos y SUV."
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      3
+    ]
+  },
+  {
+    "id": "sdx55",
+    "familia": "elevadores",
+    "subfamilia": "2 columnas",
+    "tipoEquipo": "Elevador electromecánico de 2 columnas",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SDX55",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "SDX55"
+      },
+      {
+        "etiqueta": "Equivalencia",
+        "valor": "VSSDX55199355SPC"
+      }
+    ],
+    "descripcion": "Elevador de 5.500 kg de capacidad con columnas asimétricas y hueco ajustable 3000–3100 mm. Sin base: se necesita tener un buen suelo de hormigón.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Capacidad",
+        "valor": "5.500 kg"
+      },
+      {
+        "etiqueta": "Columnas",
+        "valor": "Asimétricas"
+      },
+      {
+        "etiqueta": "Hueco columnas",
+        "valor": "3000–3100 mm"
+      },
+      {
+        "etiqueta": "Sincronización",
+        "valor": "Electrónica, 2 motores"
+      },
+      {
+        "etiqueta": "Tacos",
+        "valor": "Ø 124 mm, enganche rápido"
+      },
+      {
+        "etiqueta": "Husillo",
+        "valor": "Lubricación automática"
+      }
+    ],
+    "destacados": [
+      "Polea de aluminio con función de refrigeración",
+      "Rodamientos de larga duración",
+      "Tuerca de carga de bronce un 50 % más larga",
+      "Motores con carcasa reforzada y refrigerada",
+      "Trabado firme y automático del brazo"
+    ],
+    "caracteristicas": [
+      "Columnas asimétricas con los carros enfrentados, hueco entre columnas ajustable 3000–3100 mm.",
+      "2 motores, sincronización electrónica.",
+      "Husillo de acero de altísima calidad con rosca realizada en frío.",
+      "Tuerca de trabajo y seguridad en bronce de grandísima resistencia, 50 % más larga.",
+      "Lubricación automática del husillo y tuercas (antes de su tránsito).",
+      "Sistema de bloqueo de subida del elevador al desgaste de la tuerca de trabajo.",
+      "Motores con carcasa reforzada, rodamientos de larga duración, poleas de aluminio y refrigeradas, fácil acceso al cambio del husillo y piezas del interior."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Capacidad",
+        "valor": "5.500 kg"
+      },
+      {
+        "etiqueta": "Columnas",
+        "valor": "Asimétricas, carros enfrentados"
+      },
+      {
+        "etiqueta": "Hueco entre columnas",
+        "valor": "3000–3100 mm (ajustable)"
+      },
+      {
+        "etiqueta": "Motores",
+        "valor": "2"
+      },
+      {
+        "etiqueta": "Sincronización",
+        "valor": "Electrónica"
+      },
+      {
+        "etiqueta": "Tacos",
+        "valor": "Ø 124 mm, enganche rápido"
+      }
+    ],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Sin base: se necesita tener un buen suelo de hormigón."
+    ],
+    "observaciones": [],
+    "notasDatos": [],
+    "atributos": {
+      "capacidadKg": 5500,
+      "columnas": "Asimétricas",
+      "instalacion": [
+        "Sin base (suelo de hormigón)"
+      ],
+      "sincronizacion": "Electrónica",
+      "huecoColumnas": "3000–3100 mm",
+      "motores": "2",
+      "aptoAlineacion": "ND"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": "El catálogo no indica tipos de vehículo para este modelo."
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      4
+    ]
+  },
+  {
+    "id": "sfl5535",
+    "familia": "elevadores",
+    "subfamilia": "Tijera",
+    "tipoEquipo": "Elevador electrohidráulico de tijera · ruedas libres",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SFL5535",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "SFL5535"
+      },
+      {
+        "etiqueta": "Equivalencia",
+        "valor": "VSSF535195708SPC"
+      }
+    ],
+    "descripcion": "Elevador de tijera de perfil bajo, sobre suelo o empotrado, con 3.500 kg de capacidad, 100 mm de altura plegado y plataforma extensible de 1.420 a 1.950 mm. Dispositivos de seguridad mecánicos, hidráulicos y electrónicos.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Capacidad",
+        "valor": "3.500 kg"
+      },
+      {
+        "etiqueta": "Plataforma extensible",
+        "valor": "1.420–1.950 mm"
+      },
+      {
+        "etiqueta": "Altura plegado",
+        "valor": "100 mm"
+      },
+      {
+        "etiqueta": "Tipo",
+        "valor": "Ruedas libres"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Cremallera de apoyo automático y desbloqueo neumático en estacionamiento.",
+      "Pernos de articulación con casquillos autolubricados (sin mantenimiento).",
+      "Válvula de nivelación patentada (resetea automáticamente en cada bajada las plataformas y las nivela).",
+      "Superficie de las plataformas con material antideslizante.",
+      "Dispositivo acústico en los últimos 20 cm, con parada en caso de obstáculo.",
+      "Funciones de manejo y de seguridad por control SPS (programable) y LEDs de autodiagnosis.",
+      "Estructura formada por perfiles laminados soldados entre sí, consiguiendo una mayor rigidez en su estructura."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Capacidad",
+        "valor": "3.500 kg"
+      },
+      {
+        "etiqueta": "Plataforma extensible",
+        "valor": "1.420–1.950 mm"
+      },
+      {
+        "etiqueta": "Altura plegado",
+        "valor": "100 mm"
+      },
+      {
+        "etiqueta": "Instalación",
+        "valor": "Sobre suelo o empotrado"
+      },
+      {
+        "etiqueta": "Control",
+        "valor": "SPS programable, LEDs de autodiagnosis"
+      },
+      {
+        "etiqueta": "Aviso acústico",
+        "valor": "Últimos 20 cm, con parada por obstáculo"
+      }
+    ],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Instalación sobre suelo o empotrada."
+    ],
+    "observaciones": [],
+    "notasDatos": [],
+    "atributos": {
+      "capacidadKg": 3500,
+      "instalacion": [
+        "Sobre suelo",
+        "Empotrado"
+      ],
+      "plataforma": "Extensible 1.420–1.950 mm",
+      "alturaPlegado": "100 mm",
+      "aptoAlineacion": "ND"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": "El catálogo no indica tipos de vehículo para este modelo."
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      5
+    ]
+  },
+  {
+    "id": "sf6402nilt",
+    "familia": "elevadores",
+    "subfamilia": "Tijera",
+    "tipoEquipo": "Elevador electrohidráulico de tijera · pasarela larga",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SF6402NILT",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "SF6402NILT"
+      },
+      {
+        "etiqueta": "Equivalencia",
+        "valor": "VSSF642193445SPC"
+      }
+    ],
+    "descripcion": "Elevador de tijera de pasarela larga, sobre suelo o empotrado, preparado para alineación y con doble elevación (ruedas libres).",
+    "fichaRapida": [
+      {
+        "etiqueta": "Plataformas",
+        "valor": "615 x 4.600 mm"
+      },
+      {
+        "etiqueta": "Capacidad de elevación",
+        "valor": "4.200 kg"
+      },
+      {
+        "etiqueta": "Doble elevación",
+        "valor": "3.500 kg"
+      },
+      {
+        "etiqueta": "Instalación",
+        "valor": "Sobre suelo o empotrado"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Preparado para alineación (con hueco para los platos giratorios delanteros, plataformas de grandes dimensiones deslizantes traseras y espesores).",
+      "Con doble elevación (ruedas libres), con plataformas extensibles.",
+      "Dispositivos de seguridad mecánicos, hidráulicos y electrónicos.",
+      "Cremallera de apoyo automático en estacionamiento y desbloqueo neumático.",
+      "Pernos de articulación con casquillos autolubricados (sin mantenimiento).",
+      "Válvula de nivelación patentada (resetea automáticamente en cada bajada las plataformas y las nivela).",
+      "Superficie de las plataformas con material antideslizante.",
+      "Dispositivo acústico en los últimos 400 mm, con parada en caso de obstáculo.",
+      "Funciones de manejo y de seguridad por control SPS (programable) y LEDs de autodiagnosis.",
+      "Estructura formada por perfiles laminados soldados entre sí, consiguiendo una mayor rigidez en su estructura."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Capacidad de elevación",
+        "valor": "4.200 kg"
+      },
+      {
+        "etiqueta": "Doble elevación (ruedas libres)",
+        "valor": "3.500 kg"
+      },
+      {
+        "etiqueta": "Plataformas",
+        "valor": "615 x 4.600 mm"
+      },
+      {
+        "etiqueta": "Instalación",
+        "valor": "Sobre suelo o empotrado"
+      },
+      {
+        "etiqueta": "Control",
+        "valor": "SPS programable, LEDs de autodiagnosis"
+      },
+      {
+        "etiqueta": "Aviso acústico",
+        "valor": "Últimos 400 mm, con parada por obstáculo"
+      }
+    ],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Instalación sobre suelo o empotrada.",
+      "Plano de cimentación (pág. 7): hormigón R'bk 250 con armadura (mallazo Ø10 x 150 x 150).",
+      "Planitud del suelo bajo las bases; para mayor profundidad, calzar bajo las bases sin alterar la altura de elevación."
+    ],
+    "observaciones": [],
+    "notasDatos": [
+      "El plano de cimentación descargable es el del fabricante (fundaciones RAV640N y RAV635N)."
+    ],
+    "atributos": {
+      "capacidadKg": 4200,
+      "instalacion": [
+        "Sobre suelo",
+        "Empotrado"
+      ],
+      "plataforma": "615 x 4.600 mm",
+      "dobleElevacion": "3.500 kg",
+      "aptoAlineacion": "Sí"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": "El catálogo no indica tipos de vehículo para este modelo."
+    },
+    "pictogramas": [],
+    "documentos": [
+      {
+        "titulo": "Plano de cimentación",
+        "detalle": "Fundaciones RAV640N.2ISI + RAV640N.1ISI + RAV635N.2ISI + RAV635N.1ISI · código 059207030_05",
+        "archivo": "/docs/planos/sf6402nilt-plano-cimentacion.pdf",
+        "nombreDescarga": "SF6402NILT-FONDAMENTA RAV640N.2ISI+RAV640N.1ISI+RAV635N.2ISI+RAV635N.1ISI_(059207030_05).pdf",
+        "tamanoKb": 84
+      }
+    ],
+    "paginas": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "spa3dtower-4",
+    "familia": "alineacion",
+    "subfamilia": "3D",
+    "tipoEquipo": "Alineador de ruedas basado en cruz 3D",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SPA3DTOWER.4",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "SPA3DTOWSPC"
+      }
+    ],
+    "descripcion": "Alineador de ruedas basado en cruz 3D con movimiento automático y cámaras HD. Consola abierta con PC, impresora y pantalla LCD de 22″.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Tecnología",
+        "valor": "Cruz 3D"
+      },
+      {
+        "etiqueta": "Cámaras",
+        "valor": "HD, movimiento automático de la cruz"
+      },
+      {
+        "etiqueta": "Indicadores",
+        "valor": "LED"
+      },
+      {
+        "etiqueta": "Garras",
+        "valor": "4 puntos (254–610 mm)"
+      },
+      {
+        "etiqueta": "Consola",
+        "valor": "PC, impresora y LCD de 22″"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Movimiento automático de la cruz con cámaras HD.",
+      "Los indicadores LED proporcionan una alerta visual para cada paso del procedimiento de alabeo.",
+      "Garras de 4 puntos (254–610 mm).",
+      "Captador 3D extremadamente ligero.",
+      "Captador sin componentes electrónicos en su interior.",
+      "Captador que no necesita baterías.",
+      "Captador sin mantenimiento.",
+      "Software SPACE: las instrucciones animadas y los gráficos fáciles de entender e intuitivos guían al técnico a través del proceso de alineación."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Tecnología",
+        "valor": "Cruz 3D con cámaras HD"
+      },
+      {
+        "etiqueta": "Garras",
+        "valor": "4 puntos, 254–610 mm"
+      },
+      {
+        "etiqueta": "Captadores",
+        "valor": "Sin electrónica, sin baterías, sin mantenimiento"
+      },
+      {
+        "etiqueta": "Consola",
+        "valor": "Abierta, con PC e impresora"
+      },
+      {
+        "etiqueta": "Pantalla",
+        "valor": "LCD 22″"
+      },
+      {
+        "etiqueta": "Software",
+        "valor": "SPACE"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Consola abierta equipada con PC, impresora y pantalla LCD de 22 pulgadas."
+    ],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [],
+    "notasDatos": [
+      "Junto a la imagen de la cruz 3D aparecen los textos SPA3DTOWER.4 y SPA.3DTOW.702067."
+    ],
+    "atributos": {
+      "tecnologia": "3D",
+      "visualizacion": "Consola con PC y LCD 22″",
+      "impresora": "Incluida",
+      "garras": "4 puntos (254–610 mm)"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      8
+    ]
+  },
+  {
+    "id": "sptd2-0wifi-3",
+    "familia": "alineacion",
+    "subfamilia": "CCD",
+    "tipoEquipo": "Alineador CCD con visualización en tableta",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SPTD2.0WIFI.3",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "SPTD20WIFI3CRI"
+      },
+      {
+        "etiqueta": "Equivalencia",
+        "valor": "VSTD2WF701466SPC"
+      }
+    ],
+    "descripcion": "Alineador CCD con visualización en soporte portátil (tableta), 4 captadores de 8 cámaras y verificación del ángulo de retraso en tiempo real.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Captadores",
+        "valor": "2 delanteros y 2 traseros de 8 cámaras"
+      },
+      {
+        "etiqueta": "Visualización",
+        "valor": "Tableta portátil"
+      },
+      {
+        "etiqueta": "Set Back Live",
+        "valor": "En tiempo real"
+      },
+      {
+        "etiqueta": "Incluye",
+        "valor": "STDASHOOT y Tëq-Link"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Tableta con gran capacidad de resistencia a todo tipo de condiciones dadas en un taller.",
+      "Nuevas gráficas animadas y fácil uso del programa.",
+      "Ahorro de espacio.",
+      "Con imanes para la fijación en el elevador.",
+      "Posibilidad de incluir fotografía del vehículo y de enviar informes de resultados por e-mail, WhatsApp o cualquier otra red social.",
+      "Paneles de pared para tableta; captadores con carga incorporada USB.",
+      "Compensación automática de los desniveles del elevador.",
+      "Captadores equipados con teclado.",
+      "Verificación del ángulo de retraso en tiempo real (Set Back Live).",
+      "Detección del giro de la rueda en modo automático (10º, 20º, Ackermann, giro máximo y modo automático).",
+      "Posibilidad de impresión con la impresora de oficina.",
+      "2 captadores delanteros y 2 traseros de 8 cámaras, pernos con rodamientos, encoder y enchufe de carga rápida."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Tecnología",
+        "valor": "CCD"
+      },
+      {
+        "etiqueta": "Captadores",
+        "valor": "4 (2 delanteros + 2 traseros), 8 cámaras"
+      },
+      {
+        "etiqueta": "Visualización",
+        "valor": "Tableta portátil, Wi-Fi"
+      },
+      {
+        "etiqueta": "Carga captadores",
+        "valor": "USB incorporada, carga rápida"
+      },
+      {
+        "etiqueta": "Detección de giro",
+        "valor": "10º, 20º, Ackermann, giro máximo, automático"
+      },
+      {
+        "etiqueta": "Impresión",
+        "valor": "Con la impresora de oficina"
+      }
+    ],
+    "equipamientoIncluido": [
+      "STDASHOOT y Tëq-Link.",
+      "2 captadores delanteros y 2 traseros de 8 cámaras.",
+      "2 platos giratorios mecánicos delanteros.",
+      "1 bloqueador de volante y 1 de pedal de freno.",
+      "Paneles de pared para la tableta."
+    ],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [
+      "Permite enviar informes de resultados por e-mail o WhatsApp, con fotografía del vehículo."
+    ],
+    "notasDatos": [],
+    "atributos": {
+      "tecnologia": "CCD",
+      "visualizacion": "Tableta",
+      "impresora": "Impresora de oficina",
+      "garras": "ND"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      9
+    ]
+  },
+  {
+    "id": "v-2180",
+    "familia": "alineacion",
+    "subfamilia": "Por imagen",
+    "tipoEquipo": "Alineador por imagen",
+    "marca": "SNAP-ON",
+    "submarca": "BOXER",
+    "fabricante": "SNAP-ON",
+    "modelo": "V 2180",
+    "referencias": [],
+    "descripcion": "Sistema de alineación por imagen con mayor compatibilidad de elevación, barra de cámaras extendida y modo de compensación de elevación de dos ruedas.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Tecnología",
+        "valor": "Alineación por imagen"
+      },
+      {
+        "etiqueta": "Barra de cámaras",
+        "valor": "Extendida y giratoria"
+      },
+      {
+        "etiqueta": "Garras",
+        "valor": "4 puntos AC 100"
+      },
+      {
+        "etiqueta": "Control",
+        "valor": "Mediante tableta"
+      },
+      {
+        "etiqueta": "Calibración",
+        "valor": "Autocalibración"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Alineación por imagen.",
+      "Garra 4 puntos AC 100.",
+      "Controle el alineador desde cualquier lugar del taller.",
+      "Utilización a través de una tableta.",
+      "Barra de cámaras giratoria para reducir el espacio en el taller.",
+      "Actualizaciones de software y especificaciones en red (online).",
+      "Autocalibración.",
+      "Platos incluidos.",
+      "Kit móvil no incluido.",
+      "No Windows."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Tecnología",
+        "valor": "Por imagen"
+      },
+      {
+        "etiqueta": "Garras",
+        "valor": "4 puntos AC 100"
+      },
+      {
+        "etiqueta": "Control",
+        "valor": "Tableta"
+      },
+      {
+        "etiqueta": "Barra de cámaras",
+        "valor": "Extendida y giratoria"
+      },
+      {
+        "etiqueta": "Compensación de elevación",
+        "valor": "Modo de dos ruedas"
+      },
+      {
+        "etiqueta": "Actualizaciones",
+        "valor": "Software y especificaciones online"
+      },
+      {
+        "etiqueta": "Sistema operativo",
+        "valor": "No Windows"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Platos giratorios."
+    ],
+    "noIncluido": [
+      "Kit móvil."
+    ],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [],
+    "notasDatos": [],
+    "atributos": {
+      "tecnologia": "Por imagen",
+      "visualizacion": "Tableta",
+      "impresora": "ND",
+      "garras": "4 puntos AC 100"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      10
+    ]
+  },
+  {
+    "id": "ga2641d-24",
+    "familia": "neumaticos",
+    "subfamilia": "Desmontadoras",
+    "tipoEquipo": "Desmontadora de ruedas con plato cuadrado estándar",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "GA2641D.24",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "GA2641D.24"
+      },
+      {
+        "etiqueta": "Equivalencia",
+        "valor": "SPGA641200952SPC"
+      }
+    ],
+    "descripcion": "Desmontadora de ruedas con plato cuadrado estándar para llantas de 10″ a 24″ y neumáticos de hasta 43″ de diámetro, con motor inverter de velocidad regulable.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Plato",
+        "valor": "Cuadrado estándar"
+      },
+      {
+        "etiqueta": "Llantas",
+        "valor": "10″ a 24″ (12″–26,5″), ancho máx. 15″"
+      },
+      {
+        "etiqueta": "Ø máx. neumático",
+        "valor": "43″ (1090 mm)"
+      },
+      {
+        "etiqueta": "Motor",
+        "valor": "Inverter de velocidad regulable"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Para llantas con diámetro de 10″ a 24″ (12″–26,5″) y ancho máx. 15″ (modelos GA2641X.24).",
+      "Para todos los tipos de neumáticos con diámetro máx. 43″ (1090 mm).",
+      "Motor eléctrico con regulación continuada de velocidad (modelos D).",
+      "Destalonador lateral neumático de doble efecto.",
+      "Inflado por pedal con manómetro y válvula balanceadora.",
+      "Protectores de plástico para llantas de aleación."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Plato",
+        "valor": "Cuadrado estándar"
+      },
+      {
+        "etiqueta": "Diámetro de llanta",
+        "valor": "10″–24″ (12″–26,5″)"
+      },
+      {
+        "etiqueta": "Ancho máx. de llanta",
+        "valor": "15″"
+      },
+      {
+        "etiqueta": "Diámetro máx. de neumático",
+        "valor": "43″ (1090 mm)"
+      },
+      {
+        "etiqueta": "Motor",
+        "valor": "Inverter, regulación continua de velocidad"
+      },
+      {
+        "etiqueta": "Destalonador",
+        "valor": "Lateral neumático de doble efecto"
+      },
+      {
+        "etiqueta": "Inflado",
+        "valor": "Por pedal con manómetro y válvula balanceadora"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Protectores de plástico para llantas de aleación."
+    ],
+    "noIncluido": [],
+    "opcionales": [
+      {
+        "nombre": "Brazo de ayuda para GA2641D.24",
+        "referencia": "PLUS83H",
+        "nota": ""
+      }
+    ],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [],
+    "notasDatos": [],
+    "atributos": {
+      "llantaMaxPulg": 24,
+      "neumaticoMax": "43″ (1090 mm)",
+      "motorInverter": "Sí",
+      "brazoAyuda": "Opcional",
+      "runFlat": "ND",
+      "plato": "Cuadrado estándar",
+      "altoVolumen": "ND"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      11
+    ]
+  },
+  {
+    "id": "sg45-26d",
+    "familia": "neumaticos",
+    "subfamilia": "Desmontadoras",
+    "tipoEquipo": "Desmontadora de ruedas con plato cuadrado estándar",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SG45.26D",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "SG45.26D"
+      },
+      {
+        "etiqueta": "Código RAV",
+        "valor": "RAV.SG45X.202192"
+      }
+    ],
+    "descripcion": "Desmontadora con plato cuadrado estándar de hasta 26″ con garras ajustables, motor inverter y 1200 Nm de par. El catálogo propone una configuración con brazo de ayuda neumático y bandeja de almacenamiento.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Torque máx.",
+        "valor": "1200 Nm (885 ft.lbs)"
+      },
+      {
+        "etiqueta": "Sujeción",
+        "valor": "Ext. 10″–26″ · int. 13″–28,5″"
+      },
+      {
+        "etiqueta": "Rueda",
+        "valor": "Ø máx. 45″ · ancho máx. 16″"
+      },
+      {
+        "etiqueta": "Motor inverter",
+        "valor": "0,75 kW · 1 Ph"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Para llantas con diámetro de 10″ a 24″ (12″–26,5″) y ancho máx. 15″.",
+      "Para todos los tipos de neumáticos con diámetro máx. 45″.",
+      "Motor eléctrico con regulación continuada de velocidad (modelos D).",
+      "Destalonador lateral neumático de doble efecto.",
+      "Inflado por pedal con manómetro y válvula balanceadora.",
+      "Plato con diámetro de hasta 26″ con garras ajustables.",
+      "Todos los pedales son fácilmente accesibles sin necesidad de realizar movimientos antinaturales.",
+      "Espacio de almacenamiento en modelos seleccionados.",
+      "Brazo de ayuda neumático profesional para modelos seleccionados."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Torque máx.",
+        "valor": "1200 Nm (885 ft.lbs)"
+      },
+      {
+        "etiqueta": "Rango de sujeción exterior",
+        "valor": "10″–26″"
+      },
+      {
+        "etiqueta": "Rango de sujeción interior",
+        "valor": "13″–28,5″"
+      },
+      {
+        "etiqueta": "Diámetro máx. rueda",
+        "valor": "45″"
+      },
+      {
+        "etiqueta": "Anchura llanta máx.",
+        "valor": "16″"
+      },
+      {
+        "etiqueta": "Ancho máx. rueda",
+        "valor": "16″"
+      },
+      {
+        "etiqueta": "Fuerza para apretar",
+        "valor": "11900 N (2675 lbf)"
+      },
+      {
+        "etiqueta": "Suministro de aire",
+        "valor": "8–10 bar (116–145 psi)"
+      },
+      {
+        "etiqueta": "Potencia motor inversor",
+        "valor": "0,75 kW (1 Hp)"
+      },
+      {
+        "etiqueta": "Alimentación eléctrica",
+        "valor": "200–240 V · 50–60 Hz"
+      },
+      {
+        "etiqueta": "Fases",
+        "valor": "1 Ph"
+      },
+      {
+        "etiqueta": "Absorción de corriente típica",
+        "valor": "10 A"
+      },
+      {
+        "etiqueta": "Velocidad de rotación",
+        "valor": "0–16 rpm"
+      }
+    ],
+    "configuracion": {
+      "titulo": "Configuración de la gama SG 45.26",
+      "columnas": [
+        "SG 45.26D · SPA.GA45X.202468",
+        "SG 45.26DP Plus · SPA.SA45X.202451"
+      ],
+      "filas": [
+        {
+          "etiqueta": "Juego protección garras (G800A140)",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Plastic tool",
+          "valores": [
+            "Opcional",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Posicionamiento neumático",
+          "valores": [
+            "n/a",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Destalonador 2 posiciones",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Pala destalonador ajustable",
+          "valores": [
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "etiqueta": "Motor inverter",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Pneumatic bead press arm (VSG.PL100.900401)",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Bandeja de almacenamiento (G800A141)",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "WDK certification",
+          "valores": [
+            "No",
+            "No"
+          ]
+        },
+        {
+          "etiqueta": "Kit inflado tubeless (G800A137)",
+          "valores": [
+            "Opcional",
+            "Opcional"
+          ]
+        },
+        {
+          "etiqueta": "Elevador (G800A138)",
+          "valores": [
+            "Opcional",
+            "Opcional"
+          ]
+        }
+      ]
+    },
+    "equipamientoIncluido": [
+      "Juego protección garras (G800A140).",
+      "Destalonador 2 posiciones."
+    ],
+    "noIncluido": [],
+    "opcionales": [
+      {
+        "nombre": "Pneumatic bead press arm (brazo de ayuda neumático)",
+        "referencia": "VSG.PL100.900401",
+        "nota": "Incluido en la configuración propuesta"
+      },
+      {
+        "nombre": "Bandeja de almacenamiento para desmontadora",
+        "referencia": "G800A141",
+        "nota": "Incluida en la configuración propuesta"
+      },
+      {
+        "nombre": "Plastic tool",
+        "referencia": "",
+        "nota": ""
+      },
+      {
+        "nombre": "Kit inflado tubeless",
+        "referencia": "G800A137",
+        "nota": ""
+      },
+      {
+        "nombre": "Elevador de ruedas",
+        "referencia": "G800A138",
+        "nota": ""
+      }
+    ],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Suministro de aire 8–10 bar.",
+      "Alimentación 200–240 V, 50–60 Hz, monofásica."
+    ],
+    "observaciones": [
+      "Configuración propuesta en el catálogo: SG45.26D + VSG.PL100.900401 + G800A141.",
+      "Pensada para alto volumen de trabajo (icono «High volume» en la pág. 13)."
+    ],
+    "notasDatos": [
+      "Las cabeceras de las págs. 12–14 muestran SPA.GA45X.202468 junto a este modelo; según el equipo comercial es la referencia del SG45.26DP Plus, no de este equipo.",
+      "La tabla de la pág. 12 indica anchura de llanta máx. 13,5″; la de la pág. 13 indica 16″.",
+      "Las características de la pág. 12 hablan de llantas de 10″ a 24″, mientras que las tablas indican sujeción exterior de 10″ a 26″.",
+      "La foto es de la gama SG45.26 (pág. 12)."
+    ],
+    "atributos": {
+      "llantaMaxPulg": 26,
+      "neumaticoMax": "45″",
+      "motorInverter": "Sí",
+      "brazoAyuda": "En configuración propuesta",
+      "runFlat": "ND",
+      "plato": "Cuadrado, hasta 26″, garras ajustables",
+      "altoVolumen": "Sí"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "id": "sg45-26dp-plus",
+    "familia": "neumaticos",
+    "subfamilia": "Desmontadoras",
+    "tipoEquipo": "Desmontadora de ruedas con plato cuadrado estándar",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SG45.26DP Plus",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "SPA.GA45X.202468"
+      }
+    ],
+    "descripcion": "Versión DP Plus de la gama SG 45.26: añade de serie el posicionamiento neumático y el plastic tool, según la tabla de configuración del catálogo.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Posicionamiento",
+        "valor": "Neumático"
+      },
+      {
+        "etiqueta": "Motor",
+        "valor": "Inverter"
+      },
+      {
+        "etiqueta": "Brazo de ayuda",
+        "valor": "Pneumatic bead press arm"
+      },
+      {
+        "etiqueta": "Destalonador",
+        "valor": "2 posiciones"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Útil de montaje con posicionamiento neumático y movimiento vertical ascendente/descendente (solo en los modelos DP).",
+      "Juego de protección de garras (G800A140).",
+      "Plastic tool.",
+      "Destalonador de 2 posiciones.",
+      "Motor inverter.",
+      "Brazo de ayuda neumático (VSG.PL100.900401).",
+      "Bandeja de almacenamiento (G800A141)."
+    ],
+    "datosTecnicos": [],
+    "configuracion": {
+      "titulo": "Configuración de la gama SG 45.26",
+      "columnas": [
+        "SG 45.26D · SPA.GA45X.202468",
+        "SG 45.26DP Plus · SPA.SA45X.202451"
+      ],
+      "filas": [
+        {
+          "etiqueta": "Juego protección garras (G800A140)",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Plastic tool",
+          "valores": [
+            "Opcional",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Posicionamiento neumático",
+          "valores": [
+            "n/a",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Destalonador 2 posiciones",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Pala destalonador ajustable",
+          "valores": [
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "etiqueta": "Motor inverter",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Pneumatic bead press arm (VSG.PL100.900401)",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "Bandeja de almacenamiento (G800A141)",
+          "valores": [
+            "Sí",
+            "Sí"
+          ]
+        },
+        {
+          "etiqueta": "WDK certification",
+          "valores": [
+            "No",
+            "No"
+          ]
+        },
+        {
+          "etiqueta": "Kit inflado tubeless (G800A137)",
+          "valores": [
+            "Opcional",
+            "Opcional"
+          ]
+        },
+        {
+          "etiqueta": "Elevador (G800A138)",
+          "valores": [
+            "Opcional",
+            "Opcional"
+          ]
+        }
+      ]
+    },
+    "equipamientoIncluido": [
+      "Juego protección garras (G800A140).",
+      "Plastic tool.",
+      "Posicionamiento neumático.",
+      "Pneumatic bead press arm (VSG.PL100.900401).",
+      "Bandeja de almacenamiento (G800A141)."
+    ],
+    "noIncluido": [],
+    "opcionales": [
+      {
+        "nombre": "Kit inflado tubeless",
+        "referencia": "G800A137",
+        "nota": ""
+      },
+      {
+        "nombre": "Elevador de ruedas",
+        "referencia": "G800A138",
+        "nota": ""
+      }
+    ],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [],
+    "notasDatos": [
+      "Referencia confirmada por el equipo comercial: SPA.GA45X.202468, sin equivalencia. La tabla de configuración de la pág. 13 muestra SPA.SA45X.202451 en la columna de este modelo.",
+      "El catálogo solo describe este modelo en la tabla de configuración (pág. 13); los datos técnicos no se indican por separado.",
+      "La foto es de la gama SG45.26 (pág. 12)."
+    ],
+    "atributos": {
+      "llantaMaxPulg": null,
+      "neumaticoMax": "ND",
+      "motorInverter": "Sí",
+      "brazoAyuda": "Incluido",
+      "runFlat": "ND",
+      "plato": "ND",
+      "altoVolumen": "ND"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      12,
+      13
+    ]
+  },
+  {
+    "id": "super-lx-24",
+    "familia": "neumaticos",
+    "subfamilia": "Desmontadoras",
+    "tipoEquipo": "Desmontadora con columna automática",
+    "marca": "SNAP-ON",
+    "submarca": "BOXER",
+    "fabricante": "SNAP-ON",
+    "modelo": "SUPER LX 24",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "EEWH630AEC"
+      }
+    ],
+    "descripcion": "Desmontadora Passenger TC Range con columna automática, para talleres con volumen alto de trabajo. Brazo de ayuda MH incluido.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Columna",
+        "valor": "Automática (RFT)"
+      },
+      {
+        "etiqueta": "Fijación",
+        "valor": "10″–24″ · ancho máx. 15″"
+      },
+      {
+        "etiqueta": "Motor",
+        "valor": "220 V 1PH inverter, PROspeed 7–18 rpm"
+      },
+      {
+        "etiqueta": "Destalonador",
+        "valor": "Ajustable en 3 posiciones"
+      }
+    ],
+    "destacados": [
+      "SMART SPEED",
+      "220 V"
+    ],
+    "caracteristicas": [
+      "Capacidad de fijación de 10″–24″ (fuera 10″–24″, interior 12″–24″).",
+      "Ancho de rueda máximo 15″.",
+      "Chasis más bajo y ancho.",
+      "Columna reforzada con doble sistema de fijación para el brazo.",
+      "Pedal de inflado con estantería para herramientas y manómetro incorporado.",
+      "MH brazo de ayuda incluido.",
+      "220 V 1PH con inverter, PROspeed 7–18 rpm – 0,9 kW.",
+      "Destalonador ajustable en 3 posiciones.",
+      "Disponible en versión GT y PLUS (+ MH320 y accesorios Run Flat)."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Fijación exterior",
+        "valor": "10″–24″"
+      },
+      {
+        "etiqueta": "Fijación interior",
+        "valor": "12″–24″"
+      },
+      {
+        "etiqueta": "Ancho máx. de rueda",
+        "valor": "15″"
+      },
+      {
+        "etiqueta": "Alimentación",
+        "valor": "220 V, 1PH, inverter"
+      },
+      {
+        "etiqueta": "Potencia",
+        "valor": "0,9 kW"
+      },
+      {
+        "etiqueta": "Velocidad",
+        "valor": "PROspeed 7–18 rpm"
+      },
+      {
+        "etiqueta": "Destalonador",
+        "valor": "Ajustable en 3 posiciones"
+      },
+      {
+        "etiqueta": "Columna",
+        "valor": "Automática (RFT), reforzada"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Brazo de ayuda MH.",
+      "Pedal de inflado con estantería para herramientas y manómetro."
+    ],
+    "noIncluido": [],
+    "opcionales": [
+      {
+        "nombre": "Versiones GT y PLUS (+ MH320 y accesorios Run Flat)",
+        "referencia": "",
+        "nota": ""
+      }
+    ],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Alimentación 220 V monofásica."
+    ],
+    "observaciones": [
+      "Para talleres con volumen alto de trabajo."
+    ],
+    "notasDatos": [],
+    "atributos": {
+      "llantaMaxPulg": 24,
+      "neumaticoMax": "ND",
+      "motorInverter": "Sí",
+      "brazoAyuda": "Incluido",
+      "runFlat": "Versión PLUS",
+      "plato": "ND",
+      "altoVolumen": "Sí"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      15
+    ]
+  },
+  {
+    "id": "super-lx-26",
+    "familia": "neumaticos",
+    "subfamilia": "Desmontadoras",
+    "tipoEquipo": "Desmontadora con columna automática",
+    "marca": "SNAP-ON",
+    "submarca": "BOXER",
+    "fabricante": "SNAP-ON",
+    "modelo": "SUPER LX 26",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "EEWH643AEB"
+      }
+    ],
+    "descripcion": "Desmontadora Passenger TC Range SUPER LX 26 2S GT PLUS Racing con columna automática, para talleres con volumen alto de trabajo (RFT).",
+    "fichaRapida": [
+      {
+        "etiqueta": "Columna",
+        "valor": "Automática (RFT)"
+      },
+      {
+        "etiqueta": "Fijación",
+        "valor": "12″–26″ (interior 14″–26″)"
+      },
+      {
+        "etiqueta": "Ancho máx. rueda",
+        "valor": "17″"
+      },
+      {
+        "etiqueta": "Motor",
+        "valor": "220 V 1PH inverter, PROspeed 7–18 rpm"
+      }
+    ],
+    "destacados": [
+      "SMART SPEED",
+      "220 V"
+    ],
+    "caracteristicas": [
+      "Capacidad de fijación de 12″–26″ (fuera 12″–26″, interior 14″–26″).",
+      "Ancho de rueda máximo 17″.",
+      "Columna reforzada con doble sistema de fijación para el brazo.",
+      "Pedal de inflado con estantería para herramientas y manómetro incorporado.",
+      "220 V 1PH con inverter, PROspeed 7–18 rpm – 0,9 kW.",
+      "Destalonador ajustable en 3 posiciones.",
+      "Disponible en versión GT y PLUS (+ MH320 y accesorios Run Flat)."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Fijación exterior",
+        "valor": "12″–26″"
+      },
+      {
+        "etiqueta": "Fijación interior",
+        "valor": "14″–26″"
+      },
+      {
+        "etiqueta": "Ancho máx. de rueda",
+        "valor": "17″"
+      },
+      {
+        "etiqueta": "Alimentación",
+        "valor": "220 V, 1PH, inverter"
+      },
+      {
+        "etiqueta": "Potencia",
+        "valor": "0,9 kW"
+      },
+      {
+        "etiqueta": "Velocidad",
+        "valor": "PROspeed 7–18 rpm"
+      },
+      {
+        "etiqueta": "Destalonador",
+        "valor": "Ajustable en 3 posiciones"
+      },
+      {
+        "etiqueta": "Columna",
+        "valor": "Automática (RFT), reforzada"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Pedal de inflado con estantería para herramientas y manómetro."
+    ],
+    "noIncluido": [],
+    "opcionales": [
+      {
+        "nombre": "Versiones GT y PLUS (+ MH320 y accesorios Run Flat)",
+        "referencia": "",
+        "nota": ""
+      }
+    ],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Alimentación 220 V monofásica."
+    ],
+    "observaciones": [
+      "Para talleres con volumen alto de trabajo."
+    ],
+    "notasDatos": [
+      "La cabecera de la pág. 16 escribe «SIPER LX 262S GT PLUS RACING»; se ha corregido a «SUPER LX 26 2S»."
+    ],
+    "atributos": {
+      "llantaMaxPulg": 26,
+      "neumaticoMax": "ND",
+      "motorInverter": "Sí",
+      "brazoAyuda": "ND",
+      "runFlat": "Versión PLUS",
+      "plato": "ND",
+      "altoVolumen": "Sí"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [
+      {
+        "src": "/img/marcas/pictograma-220v.png",
+        "alt": "Alimentación 220 V",
+        "w": 57,
+        "h": 66
+      }
+    ],
+    "documentos": [],
+    "paginas": [
+      16
+    ]
+  },
+  {
+    "id": "er455ws",
+    "familia": "neumaticos",
+    "subfamilia": "Equilibradoras",
+    "tipoEquipo": "Equilibradora automática de ruedas",
+    "marca": "SPACE",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "ER455WS",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "ER455WS"
+      },
+      {
+        "etiqueta": "Equivalencia",
+        "valor": "SPER455201348SPC"
+      }
+    ],
+    "descripcion": "Equilibradora automática con monitor TFT de 19″, PC industrial y gráfica 3D. Versión ERP455WS con bloqueo neumático de la rueda.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Monitor",
+        "valor": "TFT de 19″"
+      },
+      {
+        "etiqueta": "Electrónica",
+        "valor": "PC industrial · Gráfica 3D"
+      },
+      {
+        "etiqueta": "Capacidad de rueda",
+        "valor": "Máx. 41″"
+      },
+      {
+        "etiqueta": "Ciclo",
+        "valor": "Automático"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Sistema de medición del ancho de la llanta por ultrasonidos, ancho máx. 600 mm.",
+      "Palpador automático de distancia y diámetro hasta 26″.",
+      "Raya indicadora láser a las 6 para colocación del plomo.",
+      "Alumbrado LED para el interior de la llanta.",
+      "Cárter de protección de rueda.",
+      "Conos para turismos y garra rápida de bloqueo.",
+      "Parada automática en el posicionamiento exterior e interior del plomo.",
+      "Medición del alabeo de la llanta con el palpador.",
+      "7 programas de tipo de llantas + programa ECO + plomos escondidos.",
+      "Detección automática del programa para ALU S, estático y dinámico."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Monitor",
+        "valor": "TFT 19″"
+      },
+      {
+        "etiqueta": "Electrónica",
+        "valor": "PC industrial, gráfica 3D"
+      },
+      {
+        "etiqueta": "Capacidad máx. de rueda",
+        "valor": "41″"
+      },
+      {
+        "etiqueta": "Medición del ancho",
+        "valor": "Ultrasonidos, máx. 600 mm"
+      },
+      {
+        "etiqueta": "Palpador distancia/diámetro",
+        "valor": "Automático, hasta 26″"
+      },
+      {
+        "etiqueta": "Indicador de plomo",
+        "valor": "Raya láser a las 6"
+      },
+      {
+        "etiqueta": "Programas",
+        "valor": "7 tipos de llanta + ECO + plomos escondidos"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Conos para turismos y garra rápida de bloqueo.",
+      "Cárter de protección de rueda."
+    ],
+    "noIncluido": [],
+    "opcionales": [
+      {
+        "nombre": "Versión ERP455WS con bloqueo neumático de la rueda",
+        "referencia": "",
+        "nota": ""
+      }
+    ],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [],
+    "notasDatos": [],
+    "atributos": {
+      "monitor": "TFT 19″",
+      "sonar": "Sí (ultrasonidos)",
+      "laser": "Sí",
+      "bloqueo": "Garra rápida (neumático en ERP455WS)",
+      "ruedaMax": "41″",
+      "uso": "ND"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      17
+    ]
+  },
+  {
+    "id": "s-1280",
+    "familia": "neumaticos",
+    "subfamilia": "Equilibradoras",
+    "tipoEquipo": "Equilibradora basic con display profesional",
+    "marca": "SNAP-ON",
+    "submarca": "BOXER",
+    "fabricante": "SNAP-ON",
+    "modelo": "S 1280",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "EEWB613AE1"
+      }
+    ],
+    "descripcion": "Equilibradora basic con display profesional, compacta y motorizada. Para talleres de volumen medio y moto.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Display",
+        "valor": "Profesional compacto"
+      },
+      {
+        "etiqueta": "Velocidad",
+        "valor": "Baja (< 100 RPM)"
+      },
+      {
+        "etiqueta": "Precisión",
+        "valor": "1 g · Tecnología VPM"
+      },
+      {
+        "etiqueta": "Peso máx. rueda",
+        "valor": "70 kg"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Para talleres de volumen medio, moto.",
+      "Baja velocidad de equilibrado (menos de 100 RPM).",
+      "Pedal de freno – full wheel guard.",
+      "2D SAPE (distancia – diámetro).",
+      "Precisas funciones ALU con ocultación de plomos adhesivos.",
+      "Precisión 1 g.",
+      "Tecnología VPM.",
+      "Peso máx. de rueda 70 kg."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Display",
+        "valor": "Profesional compacto"
+      },
+      {
+        "etiqueta": "Velocidad de equilibrado",
+        "valor": "< 100 RPM"
+      },
+      {
+        "etiqueta": "Precisión",
+        "valor": "1 g"
+      },
+      {
+        "etiqueta": "Tecnología de medida",
+        "valor": "VPM"
+      },
+      {
+        "etiqueta": "Peso máx. de rueda",
+        "valor": "70 kg"
+      },
+      {
+        "etiqueta": "SAPE",
+        "valor": "2D (distancia – diámetro)"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Pedal de freno.",
+      "Protector de rueda (full wheel guard)."
+    ],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [
+      "Para talleres de volumen medio y moto."
+    ],
+    "notasDatos": [],
+    "atributos": {
+      "monitor": "Display compacto",
+      "sonar": "ND",
+      "laser": "ND",
+      "bloqueo": "ND",
+      "ruedaMax": "Peso máx. 70 kg",
+      "uso": "Volumen medio"
+    },
+    "vehiculos": {
+      "tipos": [
+        "Moto"
+      ],
+      "fuente": "Ficha: «Para talleres de volumen medio, moto»."
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      18
+    ]
+  },
+  {
+    "id": "s-1450-s",
+    "familia": "neumaticos",
+    "subfamilia": "Equilibradoras",
+    "tipoEquipo": "Equilibradora con pantalla táctil",
+    "marca": "SNAP-ON",
+    "submarca": "BOXER",
+    "fabricante": "SNAP-ON",
+    "modelo": "S 1450 S",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "EEWB622APE1"
+      }
+    ],
+    "descripcion": "Equilibradora Passenger WB Range con pantalla táctil antirreflejo, puntero láser, SMART SONAR™ y bloqueo electromecánico Power Clamp™. Versiones S 1450 S / S 1450 L / S 1450 P.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Pantalla",
+        "valor": "Táctil y antirreflejo"
+      },
+      {
+        "etiqueta": "Medición",
+        "valor": "Puntero láser · SMART SONAR™"
+      },
+      {
+        "etiqueta": "Bloqueo",
+        "valor": "Power Clamp™ (patentado)"
+      },
+      {
+        "etiqueta": "QuickBAL™",
+        "valor": "Ciclo 4,5 s (llantas 15″)"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Intuitiva como una equilibradora vídeo, interfaz de usuario rápida, cifras grandes.",
+      "Pantalla táctil y antirreflejo.",
+      "Puntero láser: identifica la posición exacta de colocación del peso para mayor precisión y eficiencia.",
+      "Eje principal de 225 mm de longitud, admite bridas intercambiables.",
+      "Power Clamp™: bloqueo electromecánico de la rueda (patentado).",
+      "SMART SONAR™: medición automática y sin contacto del ancho de llanta.",
+      "VPM: sistema de medida de alta precisión y repetibilidad.",
+      "Conectividad Wi-Fi.",
+      "QuickBAL™ para reducir el tiempo de medición: tiempo de ciclo inicio-fin de 4,5 s (llantas de 15″).",
+      "Pedal de freno."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Pantalla",
+        "valor": "Táctil, antirreflejo"
+      },
+      {
+        "etiqueta": "Eje principal",
+        "valor": "225 mm, bridas intercambiables"
+      },
+      {
+        "etiqueta": "Bloqueo",
+        "valor": "Electromecánico Power Clamp™"
+      },
+      {
+        "etiqueta": "Medición del ancho",
+        "valor": "SMART SONAR™, sin contacto"
+      },
+      {
+        "etiqueta": "Tecnología de medida",
+        "valor": "VPM"
+      },
+      {
+        "etiqueta": "Conectividad",
+        "valor": "Wi-Fi"
+      },
+      {
+        "etiqueta": "Ciclo QuickBAL™",
+        "valor": "4,5 s (llantas 15″)"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Pedal de freno."
+    ],
+    "noIncluido": [],
+    "opcionales": [
+      {
+        "nombre": "Versiones S 1450 L y S 1450 P",
+        "referencia": "",
+        "nota": ""
+      }
+    ],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [],
+    "notasDatos": [],
+    "atributos": {
+      "monitor": "Pantalla táctil",
+      "sonar": "Sí (SMART SONAR™)",
+      "laser": "Sí",
+      "bloqueo": "Electromecánico (Power Clamp™)",
+      "ruedaMax": "ND",
+      "uso": "ND"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      19
+    ]
+  },
+  {
+    "id": "s-1750-s",
+    "familia": "neumaticos",
+    "subfamilia": "Equilibradoras",
+    "tipoEquipo": "Equilibradora profesional motorizada",
+    "marca": "SNAP-ON",
+    "submarca": "BOXER",
+    "fabricante": "SNAP-ON",
+    "modelo": "S 1750 S",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "EEWB615AE1"
+      }
+    ],
+    "descripcion": "Gama equilibradora turismo: equilibradora profesional motorizada con monitor panorámico TFT de 19″, para talleres con volumen medio-alto.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Monitor",
+        "valor": "Panorámico TFT 19″"
+      },
+      {
+        "etiqueta": "Ø máx. rueda",
+        "valor": "1050 mm"
+      },
+      {
+        "etiqueta": "Precisión",
+        "valor": "1 g · Tecnología VPM"
+      },
+      {
+        "etiqueta": "Quick BAL",
+        "valor": "Lanzamiento 6 s"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Equilibradora profesional motorizada con monitor panorámico TFT de 19″.",
+      "Para talleres con volumen medio-alto.",
+      "Freno de pedal y protector de rueda.",
+      "2D SAPE (distancia – diámetro).",
+      "Medición automática del ancho por SMART sonar (solo versión S).",
+      "Protector de rueda «contra pared» de gran capacidad, diámetro máx. de rueda 1050 mm.",
+      "Precisas funciones ALU con ocultación de plomos adhesivos.",
+      "Precisión 1 g – Tecnología VPM – Peso máx. de rueda 70 kg.",
+      "Quick BAL: tiempo de lanzamiento 6 s."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Monitor",
+        "valor": "Panorámico TFT 19″"
+      },
+      {
+        "etiqueta": "Diámetro máx. de rueda",
+        "valor": "1050 mm"
+      },
+      {
+        "etiqueta": "Peso máx. de rueda",
+        "valor": "70 kg"
+      },
+      {
+        "etiqueta": "Precisión",
+        "valor": "1 g"
+      },
+      {
+        "etiqueta": "Tecnología de medida",
+        "valor": "VPM"
+      },
+      {
+        "etiqueta": "Medición del ancho",
+        "valor": "SMART sonar (versión S)"
+      },
+      {
+        "etiqueta": "Quick BAL",
+        "valor": "Lanzamiento 6 s"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Freno de pedal.",
+      "Protector de rueda «contra pared»."
+    ],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [
+      "Para talleres con volumen medio-alto."
+    ],
+    "notasDatos": [],
+    "atributos": {
+      "monitor": "TFT 19″",
+      "sonar": "Sí (SMART sonar, versión S)",
+      "laser": "ND",
+      "bloqueo": "ND",
+      "ruedaMax": "1050 mm · 70 kg",
+      "uso": "Volumen medio-alto"
+    },
+    "vehiculos": {
+      "tipos": [
+        "Turismo"
+      ],
+      "fuente": "Ficha: «Gama equilibradora turismo»."
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      20
+    ]
+  },
+  {
+    "id": "treadreader",
+    "familia": "neumaticos",
+    "subfamilia": "Escáner de neumáticos",
+    "tipoEquipo": "Rampa escáner de suelo para neumáticos",
+    "marca": "TREADREADER",
+    "submarca": null,
+    "fabricante": "SNAP-ON",
+    "modelo": "TREADREADER™",
+    "referencias": [
+      {
+        "etiqueta": "Referencia superficie",
+        "valor": "EETD915AEA"
+      },
+      {
+        "etiqueta": "Referencia empotrado",
+        "valor": "EETD916AEB"
+      }
+    ],
+    "descripcion": "Rampa que redefine la medición de neumáticos: elimina errores con solo pasar por encima. Escanea la banda de rodadura y el desgaste y genera un informe PDF inmediato.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Puntos de medición",
+        "valor": "Hasta 300.000"
+      },
+      {
+        "etiqueta": "Escaneo",
+        "valor": "6 segundos"
+      },
+      {
+        "etiqueta": "Precisión",
+        "valor": "< 0,2 mm"
+      },
+      {
+        "etiqueta": "Montaje",
+        "valor": "Superficie, empotrado o integrado"
+      },
+      {
+        "etiqueta": "Velocidad del vehículo",
+        "valor": "6,5–13 km/h"
+      },
+      {
+        "etiqueta": "Peso máx. del eje",
+        "valor": "1.500 kg"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Sistema totalmente automatizado: hasta 300.000 puntos de medición de la banda de rodamiento y del desgaste.",
+      "Tres configuraciones: en superficie, empotrado o integrado con elevadores, alineadores, frenómetros y equipos para ITV.",
+      "Para talleres y negocios con gran volumen de inspecciones: aparcamientos públicos o empresas de alquiler.",
+      "Vende seguridad: garantiza el cumplimiento de la normativa de profundidad y plazo de sustitución; imágenes 3D muy claras.",
+      "No solo turismos: también minibuses y comerciales ligeros; detecta desgastes desiguales por suspensión gastada.",
+      "Informe PDF inmediato con identificación del vehículo, escaneos 3D y avisos por colores, para imprimir o enviar por correo.",
+      "Plataforma en la nube integrada con TreadReader™ de mano o de suelo: analiza los escaneos, calcula profundidades y genera imágenes 3D.",
+      "Almacena los datos de vehículos y neumáticos e informa de escaneos, actividad de los técnicos y oportunidades de venta de neumáticos y alineación.",
+      "Comparte informes en pantalla o tableta y predice la vida útil del neumático.",
+      "Identifica presiones incorrectas y desgastes desiguales por desalineación o suspensión defectuosa.",
+      "ALPR: captura automática de la matrícula.",
+      "Siempre conectado por LAN, sin Wi-Fi: más rápido y seguro.",
+      "Sensores limpios con chorros de aire y obturador, aunque el neumático esté sucio o mojado.",
+      "Perfiles de usuario y calibración del sistema para lecturas siempre precisas."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Puntos de medición",
+        "valor": "Hasta 300.000"
+      },
+      {
+        "etiqueta": "Tiempo de escaneo",
+        "valor": "6 s"
+      },
+      {
+        "etiqueta": "Zonas de escaneado",
+        "valor": "2 zonas de 600 mm"
+      },
+      {
+        "etiqueta": "Precisión de medición",
+        "valor": "< 0,2 mm"
+      },
+      {
+        "etiqueta": "Velocidad del vehículo",
+        "valor": "6,5–13 km/h"
+      },
+      {
+        "etiqueta": "Peso máx. del eje",
+        "valor": "1.500 kg"
+      },
+      {
+        "etiqueta": "Protección",
+        "valor": "IP67"
+      },
+      {
+        "etiqueta": "Conexión",
+        "valor": "Ethernet (LAN)"
+      },
+      {
+        "etiqueta": "Temperatura de trabajo",
+        "valor": "0–50 °C"
+      },
+      {
+        "etiqueta": "Montaje en superficie",
+        "valor": "2200 x 1800 x 97 mm"
+      },
+      {
+        "etiqueta": "Montaje empotrado",
+        "valor": "2380 x 1330 x 10 mm"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Plataforma en la nube para análisis de escaneos e informes."
+    ],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [
+      "Turismos",
+      "Minibuses",
+      "Comerciales ligeros"
+    ],
+    "requisitosInstalacion": [
+      "Tres configuraciones: en superficie, empotrado o integrado con elevadores, alineadores, frenómetros y equipos para ITV.",
+      "Alimentación eléctrica a cargo del cliente junto al ordenador: monofásica 240 V, 50 Hz, toma doble con interruptor de 13 A.",
+      "Suelo sustancialmente nivelado a lo largo de la bahía (±5 mm).",
+      "Dejar cable guía en el conducto de servicio desde el ordenador hasta la rampa.",
+      "Tubo de PVC de 75 mm con guía para aire comprimido y electricidad (tres opciones de entrada).",
+      "Versión empotrada: mínimo 150 mm de hormigón; arriostrar las paredes del foso mientras fragua el hormigón."
+    ],
+    "observaciones": [
+      "Para talleres y negocios con gran volumen de inspecciones: aparcamientos públicos o empresas de alquiler."
+    ],
+    "notasDatos": [
+      "El plano de obra civil (pág. 23) es de Snap-on."
+    ],
+    "atributos": {
+      "montaje": [
+        "Superficie",
+        "Empotrado",
+        "Integrado"
+      ],
+      "precision": "< 0,2 mm"
+    },
+    "vehiculos": {
+      "tipos": [
+        "Turismo",
+        "Comercial"
+      ],
+      "fuente": "Ficha: «No solo turismos: también minibuses y comerciales ligeros»."
+    },
+    "pictogramas": [],
+    "documentos": [
+      {
+        "titulo": "Plano de foso empotrado",
+        "detalle": "Obra civil para la versión empotrada · plano EAZ0155Y00A",
+        "archivo": "/docs/planos/treadreader-plano-foso-empotrado.pdf",
+        "nombreDescarga": "TreadReader-EAZ0155Y00A-Plano foso empotrado.pdf",
+        "tamanoKb": 302
+      }
+    ],
+    "paginas": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "id": "cross-900-10",
+    "familia": "aire-comprimido",
+    "subfamilia": "Compresores",
+    "tipoEquipo": "Compresor de tornillo, transmisión directa",
+    "marca": "ABAC",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "CROSS 900 10",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "1839025640"
+      }
+    ],
+    "descripcion": "Compresor de tornillo serie CROSS, transmisión directa y velocidad variable incluida.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Potencia",
+        "valor": "10 hp - 7,5 kW"
+      },
+      {
+        "etiqueta": "Aire real",
+        "valor": "848 l/m"
+      },
+      {
+        "etiqueta": "Presión",
+        "valor": "10 bar"
+      },
+      {
+        "etiqueta": "Velocidad variable",
+        "valor": "Incluida"
+      },
+      {
+        "etiqueta": "Nivel sonoro",
+        "valor": "63 dB(A)"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Compresor de tornillo serie CROSS.",
+      "Transmisión directa.",
+      "Velocidad variable incluida."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Potencia",
+        "valor": "10 hp - 7,5 kW"
+      },
+      {
+        "etiqueta": "Aire real",
+        "valor": "848 l/m - 50,9 m³/h"
+      },
+      {
+        "etiqueta": "Depósito",
+        "valor": "No incluido"
+      },
+      {
+        "etiqueta": "Presión",
+        "valor": "10 bar"
+      },
+      {
+        "etiqueta": "Alimentación (V/fase/Hz)",
+        "valor": "400/3/50"
+      },
+      {
+        "etiqueta": "Nivel sonoro",
+        "valor": "63 dB(A)"
+      },
+      {
+        "etiqueta": "Transmisión",
+        "valor": "Directa"
+      },
+      {
+        "etiqueta": "Secador frigorífico",
+        "valor": "No incluido"
+      },
+      {
+        "etiqueta": "Velocidad variable",
+        "valor": "Incluida"
+      },
+      {
+        "etiqueta": "Consumo nominal",
+        "valor": "15 A"
+      },
+      {
+        "etiqueta": "Magnetotérmico",
+        "valor": "20 A super inmunizado"
+      },
+      {
+        "etiqueta": "Sección de cable",
+        "valor": "4 mm"
+      },
+      {
+        "etiqueta": "Controlador",
+        "valor": "No incluido"
+      },
+      {
+        "etiqueta": "Aceite",
+        "valor": "FluidTech"
+      },
+      {
+        "etiqueta": "Dimensiones (largo x ancho x alto)",
+        "valor": "780 x 615 x 946"
+      },
+      {
+        "etiqueta": "Peso",
+        "valor": "99 kg"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Velocidad variable."
+    ],
+    "noIncluido": [
+      "Depósito.",
+      "Secador frigorífico.",
+      "Controlador."
+    ],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Alimentación 400/3/50.",
+      "Magnetotérmico de 20 A super inmunizado.",
+      "Sección de cable 4 mm."
+    ],
+    "observaciones": [],
+    "notasDatos": [
+      "El PDF no indica las unidades de las dimensiones."
+    ],
+    "atributos": {
+      "presionBar": "10 bar",
+      "potencia": "7,5 kW",
+      "caudal": "848 l/m",
+      "deposito": "No incluido",
+      "alimentacion": "400/3/50"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      24
+    ]
+  },
+  {
+    "id": "cool-72",
+    "familia": "aire-comprimido",
+    "subfamilia": "Secadores",
+    "tipoEquipo": "Secador frigorífico de aire comprimido",
+    "marca": "ABAC",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "COOL 72",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "4102003605"
+      }
+    ],
+    "descripcion": "Secador frigorífico de aire comprimido: 1.200 l/m con punto de rocío a presión de +5 ºC.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Caudal",
+        "valor": "1.200 l/m"
+      },
+      {
+        "etiqueta": "Punto de rocío",
+        "valor": "+5 ºC"
+      },
+      {
+        "etiqueta": "Presión de trabajo",
+        "valor": "16 bar"
+      },
+      {
+        "etiqueta": "Gas refrigerante",
+        "valor": "R513a"
+      },
+      {
+        "etiqueta": "Alimentación",
+        "valor": "230 V · 228 W"
+      },
+      {
+        "etiqueta": "Peso",
+        "valor": "20 kg"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Secador frigorífico de aire comprimido de 1.200 l/m con punto de rocío a presión de +5 ºC."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Caudal (punto de rocío +5 ºC)",
+        "valor": "1.200 l/m"
+      },
+      {
+        "etiqueta": "Punto de rocío a presión",
+        "valor": "+5 ºC ±1"
+      },
+      {
+        "etiqueta": "Temperatura ambiente",
+        "valor": "+5 º a +40 º"
+      },
+      {
+        "etiqueta": "Presión de trabajo",
+        "valor": "16 bar"
+      },
+      {
+        "etiqueta": "Gas refrigerante",
+        "valor": "R513a"
+      },
+      {
+        "etiqueta": "Alimentación (V/fase/Hz)",
+        "valor": "230/1/50"
+      },
+      {
+        "etiqueta": "Potencia",
+        "valor": "228 W"
+      },
+      {
+        "etiqueta": "Conexión",
+        "valor": "3/4″ M"
+      },
+      {
+        "etiqueta": "Dimensiones (largo x ancho x alto)",
+        "valor": "233 x 560 x 560"
+      },
+      {
+        "etiqueta": "Peso",
+        "valor": "20 kg"
+      }
+    ],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Alimentación 230/1/50.",
+      "Conexión 3/4″ M.",
+      "Temperatura ambiente de +5 º a +40 º."
+    ],
+    "observaciones": [],
+    "notasDatos": [
+      "El PDF no indica las unidades de las dimensiones."
+    ],
+    "atributos": {
+      "presionBar": "16 bar",
+      "potencia": "228 W",
+      "caudal": "1.200 l/m",
+      "deposito": "ND",
+      "alimentacion": "230/1/50"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      25
+    ]
+  },
+  {
+    "id": "dv-1000-126-kit",
+    "familia": "aire-comprimido",
+    "subfamilia": "Depósitos",
+    "tipoEquipo": "Depósito vertical de aire comprimido",
+    "marca": "ABAC",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "DV-1000/126 + KIT",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "2236100973"
+      }
+    ],
+    "descripcion": "Depósito vertical de aire comprimido de 1.000 litros a 16 bar, con kit de accesorios. Depósito pintado, que ayuda a proteger contra la corrosión.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Depósito",
+        "valor": "1.000 litros"
+      },
+      {
+        "etiqueta": "Presión",
+        "valor": "16 bar"
+      },
+      {
+        "etiqueta": "Salida",
+        "valor": "3/4″ H"
+      },
+      {
+        "etiqueta": "Medidas",
+        "valor": "Ø800 · altura 2.315"
+      },
+      {
+        "etiqueta": "Peso",
+        "valor": "246 kg"
+      },
+      {
+        "etiqueta": "Kit de accesorios",
+        "valor": "Incluido"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Los depósitos pintados se utilizan en la mayoría de los casos en los que no están expuestos a condiciones climáticas extremas y donde un aire absolutamente limpio no es un requisito fundamental.",
+      "La pintura ayuda a proteger contra la corrosión."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Depósito",
+        "valor": "1.000 litros"
+      },
+      {
+        "etiqueta": "Presión",
+        "valor": "16 bar"
+      },
+      {
+        "etiqueta": "Salida",
+        "valor": "3/4″ H"
+      },
+      {
+        "etiqueta": "Diámetro",
+        "valor": "Ø800"
+      },
+      {
+        "etiqueta": "Altura",
+        "valor": "2.315"
+      },
+      {
+        "etiqueta": "Conexión a",
+        "valor": "2″"
+      },
+      {
+        "etiqueta": "Conexión b",
+        "valor": "2″"
+      },
+      {
+        "etiqueta": "Conexión c",
+        "valor": "3/4″"
+      },
+      {
+        "etiqueta": "Conexión d",
+        "valor": "3/8″"
+      },
+      {
+        "etiqueta": "Conexión e",
+        "valor": "1″ 1/4"
+      },
+      {
+        "etiqueta": "Conexión f",
+        "valor": "1″ 1/4"
+      },
+      {
+        "etiqueta": "Peso",
+        "valor": "246 kg"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Válvula de seguridad.",
+      "Certificado CE.",
+      "Grifo de purga.",
+      "Tapones.",
+      "Manómetro."
+    ],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Uso recomendado sin exposición a condiciones climáticas extremas."
+    ],
+    "observaciones": [
+      "Recomendado cuando un aire absolutamente limpio no es un requisito fundamental."
+    ],
+    "notasDatos": [
+      "El PDF no indica las unidades del diámetro y la altura."
+    ],
+    "atributos": {
+      "presionBar": "16 bar",
+      "potencia": "ND",
+      "caudal": "ND",
+      "deposito": "1.000 litros",
+      "alimentacion": "ND"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      26
+    ]
+  },
+  {
+    "id": "cross-500-10-200",
+    "familia": "aire-comprimido",
+    "subfamilia": "Compresores",
+    "tipoEquipo": "Compresor de tornillo sobre depósito de 200 litros",
+    "marca": "ABAC",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "CROSS 500 10 200",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "1839025636"
+      }
+    ],
+    "descripcion": "Compresor de tornillo serie CROSS sobre depósito de 200 litros, transmisión directa y velocidad variable incluida.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Potencia",
+        "valor": "5,5 hp - 4 kW"
+      },
+      {
+        "etiqueta": "Aire real",
+        "valor": "498 l/m"
+      },
+      {
+        "etiqueta": "Presión",
+        "valor": "10 bar"
+      },
+      {
+        "etiqueta": "Depósito",
+        "valor": "200 litros"
+      },
+      {
+        "etiqueta": "Velocidad variable",
+        "valor": "Incluida"
+      },
+      {
+        "etiqueta": "Nivel sonoro",
+        "valor": "60 dB(A)"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Compresor de tornillo serie CROSS.",
+      "Montado sobre depósito de 200 litros.",
+      "Transmisión directa.",
+      "Velocidad variable incluida."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Potencia",
+        "valor": "5,5 hp - 4 kW"
+      },
+      {
+        "etiqueta": "Aire real",
+        "valor": "498 l/m - 29,9 m³/h"
+      },
+      {
+        "etiqueta": "Depósito",
+        "valor": "200 litros"
+      },
+      {
+        "etiqueta": "Presión",
+        "valor": "10 bar"
+      },
+      {
+        "etiqueta": "Alimentación (V/fase/Hz)",
+        "valor": "400/3/50"
+      },
+      {
+        "etiqueta": "Nivel sonoro",
+        "valor": "60 dB(A)"
+      },
+      {
+        "etiqueta": "Transmisión",
+        "valor": "Directa"
+      },
+      {
+        "etiqueta": "Secador frigorífico",
+        "valor": "No incluido"
+      },
+      {
+        "etiqueta": "Velocidad variable",
+        "valor": "Incluida"
+      },
+      {
+        "etiqueta": "Consumo nominal",
+        "valor": "8,5 A"
+      },
+      {
+        "etiqueta": "Magnetotérmico",
+        "valor": "16 A super inmunizado"
+      },
+      {
+        "etiqueta": "Sección de cable",
+        "valor": "2,5 mm"
+      },
+      {
+        "etiqueta": "Controlador",
+        "valor": "No incluido"
+      },
+      {
+        "etiqueta": "Aceite",
+        "valor": "FluidTech"
+      },
+      {
+        "etiqueta": "Dimensiones (largo x ancho x alto)",
+        "valor": "1.550 x 750 x 1.502"
+      },
+      {
+        "etiqueta": "Peso",
+        "valor": "153 kg"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Depósito de 200 litros.",
+      "Velocidad variable."
+    ],
+    "noIncluido": [
+      "Secador frigorífico.",
+      "Controlador."
+    ],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [
+      "Alimentación 400/3/50.",
+      "Magnetotérmico de 16 A super inmunizado.",
+      "Sección de cable 2,5 mm."
+    ],
+    "observaciones": [],
+    "notasDatos": [
+      "El PDF no indica las unidades de las dimensiones."
+    ],
+    "atributos": {
+      "presionBar": "10 bar",
+      "potencia": "4 kW",
+      "caudal": "498 l/m",
+      "deposito": "200 litros",
+      "alimentacion": "400/3/50"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      27
+    ]
+  },
+  {
+    "id": "eck-next-pro",
+    "familia": "aire-acondicionado",
+    "subfamilia": "Estaciones de carga A/A",
+    "tipoEquipo": "Estación de carga A/A",
+    "marca": "ECOTECHNICS",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "ECK NEXT PRO",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "11R2019PELA"
+      }
+    ],
+    "descripcion": "Estación de carga A/A con configuración del refrigerante (R134a o R1234yf) en la activación, pantalla táctil de 5″ y kit Hybrid de serie.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Refrigerante",
+        "valor": "R134a · R1234yf"
+      },
+      {
+        "etiqueta": "Pantalla",
+        "valor": "Táctil 5″"
+      },
+      {
+        "etiqueta": "Eficiencia",
+        "valor": "Ahorro de energía"
+      },
+      {
+        "etiqueta": "Kit Hybrid",
+        "valor": "Para limpiar mangueras"
+      },
+      {
+        "etiqueta": "Aceite",
+        "valor": "Gestión de aceite"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Configuración del refrigerante durante la activación con el kit R134a o R1234yf correspondiente.",
+      "Pantalla táctil de 5″.",
+      "Ahorro de energía con la tecnología de electroválvulas de 12 V.",
+      "Kit Hybrid de serie para limpiar las mangueras de servicio y los circuitos internos.",
+      "Control automático de fugas durante la fase de vacío.",
+      "Gestión de aceite y trazador, ambos con contenedores estándar rellenables o cartuchos herméticos.",
+      "Base de datos completa: vehículos comerciales y agrícolas.",
+      "Calentador automático del tanque interno."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Refrigerante",
+        "valor": "R134a o R1234yf (según kit)"
+      },
+      {
+        "etiqueta": "Pantalla",
+        "valor": "Táctil 5″"
+      },
+      {
+        "etiqueta": "Electroválvulas",
+        "valor": "12 V"
+      },
+      {
+        "etiqueta": "Control de fugas",
+        "valor": "Automático en fase de vacío"
+      },
+      {
+        "etiqueta": "Aceite y trazador",
+        "valor": "Contenedores rellenables o cartuchos herméticos"
+      },
+      {
+        "etiqueta": "Base de datos",
+        "valor": "Incluye vehículos comerciales y agrícolas"
+      },
+      {
+        "etiqueta": "Tanque interno",
+        "valor": "Calentador automático"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Kit Hybrid para limpiar mangueras de servicio y circuitos internos."
+    ],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [
+      {
+        "nombre": "Kit conectores R134a",
+        "referencia": "11ZR134CELA",
+        "nota": ""
+      },
+      {
+        "nombre": "Kit conectores R1234yf",
+        "referencia": "11Z4HFOCELA",
+        "nota": ""
+      }
+    ],
+    "compatibilidades": [
+      "Vehículos comerciales",
+      "Vehículos agrícolas"
+    ],
+    "requisitosInstalacion": [],
+    "observaciones": [
+      "El refrigerante se configura en la activación con el kit de conectores correspondiente."
+    ],
+    "notasDatos": [
+      "El PDF escribe «Estación de garga»; se ha corregido a «carga»."
+    ],
+    "atributos": {
+      "refrigerante": [
+        "R134a",
+        "R1234yf"
+      ],
+      "hibridos": "ND",
+      "pantalla": "Táctil 5″",
+      "impresora": "ND",
+      "recuperacion": "ND"
+    },
+    "vehiculos": {
+      "tipos": [
+        "Comercial",
+        "Agrícola"
+      ],
+      "fuente": "Ficha: «Base de datos completa: vehículos comerciales y agrícolas»."
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      28
+    ]
+  },
+  {
+    "id": "optima",
+    "familia": "aire-acondicionado",
+    "subfamilia": "Estaciones de carga A/A",
+    "tipoEquipo": "Estación de carga automática A/A",
+    "marca": "WIGAM",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "OPTIMA",
+    "referencias": [
+      {
+        "etiqueta": "Referencia R134a",
+        "valor": "13003093134AWIG"
+      },
+      {
+        "etiqueta": "Referencia R1234yf",
+        "valor": "130030931234WIG"
+      }
+    ],
+    "descripcion": "Estación de carga automática A/A con gran pantalla táctil de 7″ y manómetros digitales, apta para vehículos híbridos y eléctricos.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Refrigerante",
+        "valor": "R134a · R1234yf"
+      },
+      {
+        "etiqueta": "Pantalla",
+        "valor": "Táctil 7″"
+      },
+      {
+        "etiqueta": "Bomba de vacío",
+        "valor": "100 l/m"
+      },
+      {
+        "etiqueta": "Envase interno",
+        "valor": "10 litros"
+      },
+      {
+        "etiqueta": "Recuperación",
+        "valor": "300 g/min"
+      },
+      {
+        "etiqueta": "Vehículos",
+        "valor": "Híbridos y eléctricos"
+      },
+      {
+        "etiqueta": "Envases",
+        "valor": "Apta para envases herméticos"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Gran pantalla táctil de 7″ y manómetros digitales.",
+      "Apta para vehículos híbridos y eléctricos.",
+      "Bomba de vacío de 100 l/m.",
+      "Envase interno de 10 litros.",
+      "Test de presión y estanqueidad con Azohidro® (N₂+H₂) o nitrógeno.",
+      "Depósitos de inyección de aceite, descarga de aceite e inyección de aditivo con báscula.",
+      "Apta para envases herméticos de aceite y aditivo (kit herméticos).",
+      "Capacidad de recuperación de 300 g/min.",
+      "Versiones con o sin impresora.",
+      "Versiones con o sin analizador de gas: analiza R134a y R1234yf con un simple cambio de parámetro."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Refrigerante",
+        "valor": "R134a / R1234yf (según referencia)"
+      },
+      {
+        "etiqueta": "Pantalla",
+        "valor": "Táctil 7″"
+      },
+      {
+        "etiqueta": "Manómetros",
+        "valor": "Digitales"
+      },
+      {
+        "etiqueta": "Bomba de vacío",
+        "valor": "100 l/m"
+      },
+      {
+        "etiqueta": "Envase interno",
+        "valor": "10 litros"
+      },
+      {
+        "etiqueta": "Capacidad de recuperación",
+        "valor": "300 g/min"
+      },
+      {
+        "etiqueta": "Test de presión",
+        "valor": "Azohidro® (N₂+H₂) o nitrógeno"
+      },
+      {
+        "etiqueta": "Impresora",
+        "valor": "Versiones con o sin impresora"
+      },
+      {
+        "etiqueta": "Analizador de gas",
+        "valor": "Versiones con o sin analizador"
+      }
+    ],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [
+      {
+        "nombre": "Versión con impresora",
+        "referencia": "",
+        "nota": ""
+      },
+      {
+        "nombre": "Versión con analizador de gas",
+        "referencia": "",
+        "nota": ""
+      },
+      {
+        "nombre": "Kit herméticos (aceite y aditivo)",
+        "referencia": "",
+        "nota": ""
+      }
+    ],
+    "accesorios": [],
+    "compatibilidades": [
+      "Vehículos híbridos",
+      "Vehículos eléctricos"
+    ],
+    "requisitosInstalacion": [],
+    "observaciones": [
+      "Dos referencias según refrigerante: R134a 13003093134AWIG y R1234yf 130030931234WIG."
+    ],
+    "notasDatos": [
+      "El PDF escribe «Estación de garga»; se ha corregido a «carga»."
+    ],
+    "atributos": {
+      "refrigerante": [
+        "R134a",
+        "R1234yf"
+      ],
+      "hibridos": "Sí",
+      "pantalla": "Táctil 7″",
+      "impresora": "Según versión",
+      "recuperacion": "300 g/min"
+    },
+    "vehiculos": {
+      "tipos": [
+        "Híbrido / eléctrico"
+      ],
+      "fuente": "Ficha: «Apta para vehículos híbridos y eléctricos»."
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      29
+    ]
+  },
+  {
+    "id": "x-cross",
+    "familia": "aire-acondicionado",
+    "subfamilia": "Estaciones de carga A/A",
+    "tipoEquipo": "Estación de carga A/A",
+    "marca": "WIGAM",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "X-CROSS",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "13003104WIG"
+      }
+    ],
+    "descripcion": "Estación de carga A/A recomendada para vehículos de asistencia, con pantalla táctil de 7″, manómetros analógicos e impresora incorporada.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Refrigerante",
+        "valor": "R134a · R1234yf"
+      },
+      {
+        "etiqueta": "Pantalla",
+        "valor": "Táctil 7″"
+      },
+      {
+        "etiqueta": "Manómetros",
+        "valor": "Analógicos 80 mm"
+      },
+      {
+        "etiqueta": "Impresora",
+        "valor": "Incorporada"
+      },
+      {
+        "etiqueta": "Bomba de vacío",
+        "valor": "100 l/m"
+      },
+      {
+        "etiqueta": "Recuperación",
+        "valor": "300 g/min"
+      },
+      {
+        "etiqueta": "Envase interno",
+        "valor": "10 litros"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "R134a (R456A-R513A) y R1234yf (R444A).",
+      "Gran pantalla táctil de 7″ y manómetros analógicos de 80 mm.",
+      "Apta para vehículos híbridos y eléctricos.",
+      "Impresora incorporada.",
+      "Test de presión con Azohidro o nitrógeno.",
+      "Depósito de inyección de aceite con báscula.",
+      "Bomba de vacío de 100 l/m.",
+      "Envase interno de 10 litros.",
+      "Capacidad de recuperación de 300 g/min.",
+      "Chasis metálico compacto y ligero, con múltiples agarres para cargarla y transportarla en trabajos de exterior."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Refrigerante",
+        "valor": "R134a (R456A-R513A) y R1234yf (R444A)"
+      },
+      {
+        "etiqueta": "Pantalla",
+        "valor": "Táctil 7″"
+      },
+      {
+        "etiqueta": "Manómetros",
+        "valor": "Analógicos 80 mm"
+      },
+      {
+        "etiqueta": "Impresora",
+        "valor": "Incorporada"
+      },
+      {
+        "etiqueta": "Bomba de vacío",
+        "valor": "100 l/m"
+      },
+      {
+        "etiqueta": "Envase interno",
+        "valor": "10 litros"
+      },
+      {
+        "etiqueta": "Capacidad de recuperación",
+        "valor": "300 g/min"
+      },
+      {
+        "etiqueta": "Test de presión",
+        "valor": "Azohidro o nitrógeno"
+      },
+      {
+        "etiqueta": "Chasis",
+        "valor": "Metálico compacto y ligero, con agarres"
+      }
+    ],
+    "equipamientoIncluido": [
+      "Impresora incorporada.",
+      "Depósito de inyección de aceite con báscula."
+    ],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [
+      "Vehículos de asistencia",
+      "Vehículos híbridos y eléctricos"
+    ],
+    "requisitosInstalacion": [],
+    "observaciones": [
+      "Recomendada para vehículos de asistencia."
+    ],
+    "notasDatos": [
+      "En la pág. 30 se lee «Azoidro»; en la pág. 29 «Azohidro®». Se ha unificado como «Azohidro»."
+    ],
+    "atributos": {
+      "refrigerante": [
+        "R134a",
+        "R1234yf"
+      ],
+      "hibridos": "Sí",
+      "pantalla": "Táctil 7″",
+      "impresora": "Incorporada",
+      "recuperacion": "300 g/min"
+    },
+    "vehiculos": {
+      "tipos": [
+        "Híbrido / eléctrico"
+      ],
+      "fuente": "Ficha: «Apta para vehículos híbridos y eléctricos»."
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      30
+    ]
+  },
+  {
+    "id": "ds903",
+    "familia": "servicio-liquidos",
+    "subfamilia": "Sangrado y purgado",
+    "tipoEquipo": "Equipo de sangrado y cambio de líquido de frenos",
+    "marca": "MICRAUTO",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "DS903",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "120061"
+      }
+    ],
+    "descripcion": "Equipo profesional de sangrado y cambio de líquido de frenos y embragues hidráulicos: versatilidad, rapidez y limpieza.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Función",
+        "valor": "Doble: presión + aspiración"
+      },
+      {
+        "etiqueta": "Depósitos",
+        "valor": "Integrados"
+      },
+      {
+        "etiqueta": "Control",
+        "valor": "Manómetros de control"
+      },
+      {
+        "etiqueta": "Movilidad",
+        "valor": "Sistema móvil con ruedas"
+      },
+      {
+        "etiqueta": "Construcción",
+        "valor": "Profesional"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Doble función de trabajo (presión + aspiración): purga completa y homogénea según el vehículo o la intervención.",
+      "Depósitos independientes para líquido nuevo y usado: trabajo limpio y respetuoso con el entorno.",
+      "Sistema móvil con ruedas: diseño robusto, compacto y fácil de desplazar por el taller.",
+      "Manómetros para supervisar la presión de trabajo en todo momento.",
+      "Compatibilidad ampliable con kits de boquillas, adaptadores y tapón universal.",
+      "Chasis metálico resistente, preparado para uso intensivo con líquido de frenos.",
+      "Ventajas: menos tiempo de sangrado, sin derrames, un solo técnico y resultados repetibles.",
+      "Recomendado para talleres, servicios especializados en frenos y centros con alto volumen de cambios de líquido."
+    ],
+    "datosTecnicos": [
+      {
+        "etiqueta": "Aplicación",
+        "valor": "Frenos y embragues hidráulicos"
+      },
+      {
+        "etiqueta": "Función",
+        "valor": "Presión + aspiración"
+      },
+      {
+        "etiqueta": "Depósitos",
+        "valor": "Independientes, líquido nuevo y usado"
+      },
+      {
+        "etiqueta": "Control",
+        "valor": "Manómetros"
+      },
+      {
+        "etiqueta": "Chasis",
+        "valor": "Metálico, uso intensivo"
+      },
+      {
+        "etiqueta": "Movilidad",
+        "valor": "Ruedas"
+      }
+    ],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [
+      {
+        "nombre": "Kits de boquillas",
+        "referencia": "",
+        "nota": ""
+      },
+      {
+        "nombre": "Adaptadores",
+        "referencia": "",
+        "nota": ""
+      },
+      {
+        "nombre": "Tapón universal",
+        "referencia": "",
+        "nota": ""
+      }
+    ],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [
+      "Recomendado para talleres, servicios especializados en frenos y centros con alto volumen de cambios de líquido."
+    ],
+    "notasDatos": [],
+    "atributos": {
+      "aplicacion": "Frenos y embragues"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      31
+    ]
+  },
+  {
+    "id": "syncro-exprex",
+    "familia": "servicio-liquidos",
+    "subfamilia": "Sangrado y purgado",
+    "tipoEquipo": "Equipo de mantenimiento con recirculación",
+    "marca": "MICRAUTO",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SYNCRO EXPREX",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "120028"
+      }
+    ],
+    "descripcion": "Operaciones esenciales del mantenimiento del A/A de forma eficiente y segura: recuperación del refrigerante, vacío y recarga controlada.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Rapidez",
+        "valor": "Trabajo rápido"
+      },
+      {
+        "etiqueta": "Diseño",
+        "valor": "Compacto y robusto"
+      },
+      {
+        "etiqueta": "Automatización",
+        "valor": "Esencial"
+      },
+      {
+        "etiqueta": "Refrigerante",
+        "valor": "Control preciso"
+      },
+      {
+        "etiqueta": "Normativa",
+        "valor": "Cumplimiento medioambiental"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Trabajo rápido: reduce significativamente la duración de cada intervención frente a equipos más complejos.",
+      "Automatización esencial: procesos fiables con una estructura operativa sencilla y directa.",
+      "Control preciso del refrigerante: carga exacta, sin sobrecargas ni deficiencias.",
+      "Uso diario intensivo, sin una curva de aprendizaje elevada.",
+      "Compacta y robusta: ocupa poco espacio, facilita la movilidad y soporta el uso continuado."
+    ],
+    "datosTecnicos": [],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [
+      "¿Cómo funcionan? Sistema de recirculación y presión controlada que mantiene los residuos sólidos en suspensión y renueva el líquido sin detener el motor. Elimina como mínimo un 90 % de los residuos (óxido de hierro, de aluminio y de aceite) en 20-45 minutos, limpia todo el sistema de refrigeración y permite trabajar en seco.",
+      "¿Por qué cambiar el anticongelante? La caducidad de los aditivos obliga a sustituir el refrigerante: primer cambio a los 4 años y después cada 3 años."
+    ],
+    "notasDatos": [
+      "La descripción de la cabecera habla de mantenimiento del A/A (refrigerante, vacío y recarga), mientras que el recuadro inferior y la foto corresponden a cambio de anticongelante del circuito de refrigeración. Conviene confirmarlo con el proveedor.",
+      "El PDF escribe «EXPREX»; la máquina de la foto dice «xpress». Se mantiene el nombre del PDF."
+    ],
+    "atributos": {
+      "aplicacion": "Refrigeración / A/A (ver nota)"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      32
+    ]
+  },
+  {
+    "id": "syncro-plus",
+    "familia": "servicio-liquidos",
+    "subfamilia": "Sangrado y purgado",
+    "tipoEquipo": "Equipo de mantenimiento con gestión automática",
+    "marca": "MICRAUTO",
+    "submarca": null,
+    "fabricante": "ND",
+    "modelo": "SYNCRO PLUS",
+    "referencias": [
+      {
+        "etiqueta": "Referencia",
+        "valor": "120034"
+      }
+    ],
+    "descripcion": "Concebida para la recuperación, reciclaje, vacío y recarga del refrigerante en sistemas de aire acondicionado de vehículos.",
+    "fichaRapida": [
+      {
+        "etiqueta": "Rapidez",
+        "valor": "Trabajo rápido"
+      },
+      {
+        "etiqueta": "Diseño",
+        "valor": "Compacto y robusto"
+      },
+      {
+        "etiqueta": "Automatización",
+        "valor": "Esencial"
+      },
+      {
+        "etiqueta": "Refrigerante",
+        "valor": "Control preciso"
+      },
+      {
+        "etiqueta": "Normativa",
+        "valor": "Cumplimiento medioambiental"
+      }
+    ],
+    "destacados": [],
+    "caracteristicas": [
+      "Permite realizar el servicio completo de climatización de forma controlada y segura, minimizando errores humanos y garantizando resultados repetibles.",
+      "Gestión automática del proceso: la máquina controla de forma secuencial las fases de recuperación, vacío y recarga, asegurando una dosificación precisa del refrigerante.",
+      "Alta precisión de carga: incorpora sistemas de pesaje y control electrónico que permiten trabajar con tolerancias muy ajustadas, fundamentales para los sistemas de A/A modernos.",
+      "Interfaz clara e intuitiva: su panel de control facilita el manejo diario, reduciendo tiempos de aprendizaje y aumentando la productividad del taller.",
+      "Construcción robusta: chasis y componentes pensados para un uso intensivo en entorno profesional, con elevada durabilidad y fácil mantenimiento.",
+      "Cumplimiento normativo: diseñada conforme a las exigencias medioambientales vigentes, evitando emisiones innecesarias de refrigerante y favoreciendo una gestión responsable del gas."
+    ],
+    "datosTecnicos": [],
+    "equipamientoIncluido": [],
+    "noIncluido": [],
+    "opcionales": [],
+    "accesorios": [],
+    "compatibilidades": [],
+    "requisitosInstalacion": [],
+    "observaciones": [
+      "¿Por qué cambiar el anticongelante? La caducidad de los aditivos obliga a sustituir el refrigerante de los vehículos. Lo recomendable es realizar el primer cambio a los 4 años y, por consiguiente, cada 3 años para su correcto mantenimiento."
+    ],
+    "notasDatos": [
+      "La descripción habla de A/A (recuperación, vacío y recarga), mientras que el recuadro inferior y la foto corresponden a cambio de anticongelante. Conviene confirmarlo con el proveedor."
+    ],
+    "atributos": {
+      "aplicacion": "Refrigeración / A/A (ver nota)"
+    },
+    "vehiculos": {
+      "tipos": [],
+      "fuente": ""
+    },
+    "pictogramas": [],
+    "documentos": [],
+    "paginas": [
+      33
+    ]
+  }
+]

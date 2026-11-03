@@ -1,0 +1,394 @@
+[
+ {
+  "id": "sdx35",
+  "modelo": "SDX35",
+  "familia": "elevadores",
+  "imagen": {
+   "src": "/img/productos/sdx35/1.webp",
+   "thumb": "/img/productos/sdx35/1-sm.webp",
+   "w": 620,
+   "h": 631,
+   "tipo": "producto",
+   "alt": "Elevador SDX35 de 2 columnas",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "sdx42lik",
+  "modelo": "SDX42LIK",
+  "familia": "elevadores",
+  "imagen": {
+   "src": "/img/productos/sdx42lik/1.webp",
+   "thumb": "/img/productos/sdx42lik/1-sm.webp",
+   "w": 360,
+   "h": 610,
+   "tipo": "producto",
+   "alt": "Elevador SDX42LIK de 2 columnas",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "sdx55",
+  "modelo": "SDX55",
+  "familia": "elevadores",
+  "imagen": {
+   "src": "/img/productos/sdx55/1.webp",
+   "thumb": "/img/productos/sdx55/1-sm.webp",
+   "w": 428,
+   "h": 734,
+   "tipo": "producto",
+   "alt": "Elevador SDX55 de 2 columnas",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "sfl5535",
+  "modelo": "SFL5535",
+  "familia": "elevadores",
+  "imagen": {
+   "src": "/img/productos/sfl5535/1.webp",
+   "thumb": "/img/productos/sfl5535/1-sm.webp",
+   "w": 948,
+   "h": 832,
+   "tipo": "producto",
+   "alt": "Elevador de tijera SFL5535 con vehículo",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "sf6402nilt",
+  "modelo": "SF6402NILT",
+  "familia": "elevadores",
+  "imagen": {
+   "src": "/img/productos/sf6402nilt/1.webp",
+   "thumb": "/img/productos/sf6402nilt/1-sm.webp",
+   "w": 546,
+   "h": 317,
+   "tipo": "producto",
+   "alt": "Elevador de tijera SF6402NILT con vehículo",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "spa3dtower-4",
+  "modelo": "SPA3DTOWER.4",
+  "familia": "alineacion",
+  "imagen": {
+   "src": "/img/productos/spa3dtower-4/1.webp",
+   "thumb": "/img/productos/spa3dtower-4/1-sm.webp",
+   "w": 583,
+   "h": 534,
+   "tipo": "producto",
+   "alt": "Alineador SPA3DTOWER.4 con consola",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "sptd2-0wifi-3",
+  "modelo": "SPTD2.0WIFI.3",
+  "familia": "alineacion",
+  "imagen": {
+   "src": "/img/productos/sptd2-0wifi-3/1.webp",
+   "thumb": "/img/productos/sptd2-0wifi-3/1-sm.webp",
+   "w": 928,
+   "h": 598,
+   "tipo": "producto",
+   "alt": "Tableta del alineador SPTD2.0WIFI.3",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "v-2180",
+  "modelo": "V 2180",
+  "familia": "alineacion",
+  "imagen": {
+   "src": "/img/productos/v-2180/1.webp",
+   "thumb": "/img/productos/v-2180/1-sm.webp",
+   "w": 650,
+   "h": 669,
+   "tipo": "producto",
+   "alt": "Alineador V 2180 con barra de cámaras",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "ga2641d-24",
+  "modelo": "GA2641D.24",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/ga2641d-24/1.webp",
+   "thumb": "/img/productos/ga2641d-24/1-sm.webp",
+   "w": 465,
+   "h": 683,
+   "tipo": "producto",
+   "alt": "Desmontadora GA2641D.24",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "sg45-26d",
+  "modelo": "SG45.26D",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/sg45-26d/1.webp",
+   "thumb": "/img/productos/sg45-26d/1-sm.webp",
+   "w": 526,
+   "h": 606,
+   "tipo": "producto",
+   "alt": "Desmontadora gama SG45.26 con detalles",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "sg45-26dp-plus",
+  "modelo": "SG45.26DP Plus",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/sg45-26dp-plus/1.webp",
+   "thumb": "/img/productos/sg45-26dp-plus/1-sm.webp",
+   "w": 526,
+   "h": 606,
+   "tipo": "producto",
+   "alt": "Desmontadora gama SG45.26 con detalles",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "super-lx-24",
+  "modelo": "SUPER LX 24",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/super-lx-24/1.webp",
+   "thumb": "/img/productos/super-lx-24/1-sm.webp",
+   "w": 502,
+   "h": 721,
+   "tipo": "producto",
+   "alt": "Desmontadora SUPER LX 24",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "super-lx-26",
+  "modelo": "SUPER LX 26",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/super-lx-26/1.webp",
+   "thumb": "/img/productos/super-lx-26/1-sm.webp",
+   "w": 514,
+   "h": 797,
+   "tipo": "producto",
+   "alt": "Desmontadora SUPER LX 26",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "er455ws",
+  "modelo": "ER455WS",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/er455ws/1.webp",
+   "thumb": "/img/productos/er455ws/1-sm.webp",
+   "w": 371,
+   "h": 574,
+   "tipo": "producto",
+   "alt": "Equilibradora ER455WS",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "s-1280",
+  "modelo": "S 1280",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/s-1280/1.webp",
+   "thumb": "/img/productos/s-1280/1-sm.webp",
+   "w": 574,
+   "h": 870,
+   "tipo": "producto",
+   "alt": "Equilibradora S 1280",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "s-1450-s",
+  "modelo": "S 1450 S",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/s-1450-s/1.webp",
+   "thumb": "/img/productos/s-1450-s/1-sm.webp",
+   "w": 584,
+   "h": 848,
+   "tipo": "producto",
+   "alt": "Equilibradora S 1450 S",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "s-1750-s",
+  "modelo": "S 1750 S",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/s-1750-s/1.webp",
+   "thumb": "/img/productos/s-1750-s/1-sm.webp",
+   "w": 548,
+   "h": 852,
+   "tipo": "producto",
+   "alt": "Equilibradora S 1750 S",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "treadreader",
+  "modelo": "TREADREADER™",
+  "familia": "neumaticos",
+  "imagen": {
+   "src": "/img/productos/treadreader/1.webp",
+   "thumb": "/img/productos/treadreader/1-sm.webp",
+   "w": 971,
+   "h": 480,
+   "tipo": "producto",
+   "alt": "Rampa escáner de suelo TreadReader",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "cross-900-10",
+  "modelo": "CROSS 900 10",
+  "familia": "aire-comprimido",
+  "imagen": {
+   "src": "/img/productos/cross-900-10/1.webp",
+   "thumb": "/img/productos/cross-900-10/1-sm.webp",
+   "w": 820,
+   "h": 874,
+   "tipo": "producto",
+   "alt": "Compresor de tornillo CROSS 900 10",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "cool-72",
+  "modelo": "COOL 72",
+  "familia": "aire-comprimido",
+  "imagen": {
+   "src": "/img/productos/cool-72/1.webp",
+   "thumb": "/img/productos/cool-72/1-sm.webp",
+   "w": 468,
+   "h": 560,
+   "tipo": "producto",
+   "alt": "Secador frigorífico COOL 72",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "dv-1000-126-kit",
+  "modelo": "DV-1000/126 + KIT",
+  "familia": "aire-comprimido",
+  "imagen": {
+   "src": "/img/productos/dv-1000-126-kit/1.webp",
+   "thumb": "/img/productos/dv-1000-126-kit/1-sm.webp",
+   "w": 300,
+   "h": 922,
+   "tipo": "producto",
+   "alt": "Depósito vertical DV-1000/126",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "cross-500-10-200",
+  "modelo": "CROSS 500 10 200",
+  "familia": "aire-comprimido",
+  "imagen": {
+   "src": "/img/productos/cross-500-10-200/1.webp",
+   "thumb": "/img/productos/cross-500-10-200/1-sm.webp",
+   "w": 509,
+   "h": 560,
+   "tipo": "producto",
+   "alt": "Compresor CROSS 500 10 200 sobre depósito",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "eck-next-pro",
+  "modelo": "ECK NEXT PRO",
+  "familia": "aire-acondicionado",
+  "imagen": {
+   "src": "/img/productos/eck-next-pro/1.webp",
+   "thumb": "/img/productos/eck-next-pro/1-sm.webp",
+   "w": 1116,
+   "h": 1094,
+   "tipo": "producto",
+   "alt": "Estación de carga A/A ECK NEXT PRO",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "optima",
+  "modelo": "OPTIMA",
+  "familia": "aire-acondicionado",
+  "imagen": {
+   "src": "/img/productos/optima/1.webp",
+   "thumb": "/img/productos/optima/1-sm.webp",
+   "w": 441,
+   "h": 752,
+   "tipo": "producto",
+   "alt": "Estación de carga automática A/A OPTIMA",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "x-cross",
+  "modelo": "X-CROSS",
+  "familia": "aire-acondicionado",
+  "imagen": {
+   "src": "/img/productos/x-cross/1.webp",
+   "thumb": "/img/productos/x-cross/1-sm.webp",
+   "w": 1097,
+   "h": 1097,
+   "tipo": "producto",
+   "alt": "Estación A/A X-CROSS para exterior",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "ds903",
+  "modelo": "DS903",
+  "familia": "servicio-liquidos",
+  "imagen": {
+   "src": "/img/productos/ds903/1.webp",
+   "thumb": "/img/productos/ds903/1-sm.webp",
+   "w": 444,
+   "h": 847,
+   "tipo": "producto",
+   "alt": "Equipo de sangrado DS903",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "syncro-exprex",
+  "modelo": "SYNCRO EXPREX",
+  "familia": "servicio-liquidos",
+  "imagen": {
+   "src": "/img/productos/syncro-exprex/1.webp",
+   "thumb": "/img/productos/syncro-exprex/1-sm.webp",
+   "w": 436,
+   "h": 860,
+   "tipo": "producto",
+   "alt": "SYNCRO EXPREX",
+   "calidad": "ok"
+  }
+ },
+ {
+  "id": "syncro-plus",
+  "modelo": "SYNCRO PLUS",
+  "familia": "servicio-liquidos",
+  "imagen": {
+   "src": "/img/productos/syncro-plus/1.webp",
+   "thumb": "/img/productos/syncro-plus/1-sm.webp",
+   "w": 461,
+   "h": 872,
+   "tipo": "producto",
+   "alt": "SYNCRO PLUS",
+   "calidad": "ok"
+  }
+ }
+]
