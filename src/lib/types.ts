@@ -58,6 +58,7 @@ export type ProductoBase = {
   fabricante: string;
   modelo: string;
   referencias: Referencia[];
+  precio?: string;
   descripcion: string;
   fichaRapida: Dato[];
   destacados: string[];

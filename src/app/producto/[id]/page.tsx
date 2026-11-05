@@ -371,6 +371,12 @@ export default async function PaginaProducto({ params }: { params: Promise<{ id:
             <h1 className="mt-3 font-display text-4xl font-bold leading-none text-marino-950 sm:text-5xl">{p.modelo}</h1>
             <p className="mt-2 text-lg text-slate-700">{p.tipoEquipo}</p>
 
+            {p.precio && (
+              <div className="mt-4 inline-flex items-baseline gap-3 rounded-2xl bg-marino-900 px-5 py-3 text-white">
+                <span className="font-display text-3xl font-bold leading-none">{p.precio}</span>
+                <span className="text-xs font-semibold text-marino-200">+IVA</span>              </div>
+            )}
+
             <dl className="mt-5 grid gap-x-6 gap-y-3 rounded-2xl border border-slate-200 bg-white p-4 text-sm sm:grid-cols-2">
               <div>
                 <dt className="text-xs font-semibold uppercase tracking-[0.1em] text-slate-600">Familia</dt>
